@@ -1,0 +1,322 @@
+:root {
+  --ev-menu-bg: #ffffff;
+  --ev-menu-border: rgba(0, 0, 0, 0.08);
+  --ev-menu-shadow: 0 8px 28px rgba(0, 0, 0, 0.12), 0 2px 8px rgba(0, 0, 0, 0.06);
+  --ev-menu-text: #242424;
+  --ev-menu-muted: #616161;
+  --ev-menu-hover: #f5f5f5;
+  --ev-menu-accent: #0f6cbd;
+  --ev-menu-accent-soft: #ebf3fc;
+}
+
+.equation_view--placeholder {
+  display: inline-block;
+  padding: 24px 32px;
+  border-radius: 10px;
+  background: #fafafa;
+  color: var(--ev-menu-muted);
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  font-size: 14px;
+  border: 1px dashed #ccc;
+}
+
+.ev-card {
+  background: white;
+  padding: 40px 40px 0;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.16);
+  cursor: pointer;
+  text-align: left;
+  overflow: hidden;
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+.ev-card:focus {
+  outline: none;
+}
+
+.ev-card:focus-visible {
+  outline: 3px solid var(--ev-menu-accent);
+  outline-offset: 3px;
+}
+
+.ev-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Pop — bold gradient, same layout/size as classic */
+.equation_view[data-style="pop"] .ev-card {
+  background: linear-gradient(145deg, #1ee9c0 0%, #3586ff 45%, #ad47ff 100%);
+  color: #ffffff;
+  border: none;
+  box-shadow: 0 4px 22px rgba(53, 134, 255, 0.4);
+}
+
+.equation_view[data-style="pop"] .ev-reference {
+  color: rgba(255, 255, 255, 0.92);
+  font-weight: 600;
+}
+
+.equation_view[data-style="pop"] .ev-equation {
+  color: #ffffff;
+}
+
+.equation_view[data-style="pop"] .ev-equation math {
+  color: inherit;
+}
+
+.equation_view[data-style="pop"] .ev-hint {
+  color: rgba(255, 255, 255, 0.95);
+  border-top-color: rgba(255, 255, 255, 0.35);
+}
+
+.equation_view[data-style="pop"] .ev-card-footer {
+  background: #2a223d;
+  color: #ddd6e8;
+}
+
+/* Dark — dark panel, light text */
+.equation_view[data-style="dark"] .ev-card {
+  background: #1c1c1c;
+  color: #f3f3f3;
+  border: 1px solid #333;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.35);
+}
+
+.equation_view[data-style="dark"] .ev-reference {
+  color: #b8b8b8;
+}
+
+.equation_view[data-style="dark"] .ev-equation {
+  color: #ffffff;
+}
+
+.equation_view[data-style="dark"] .ev-equation math {
+  color: inherit;
+}
+
+.equation_view[data-style="dark"] .ev-hint {
+  color: #d0d0d0;
+  border-top-color: #404040;
+}
+
+.equation_view[data-style="dark"] .ev-card-footer {
+  background: #111;
+  color: #8a8a8a;
+}
+
+.ev-card-footer {
+  margin: 24px -40px 0;
+  padding: 4px 16px;
+  background: #506e50;
+  color: #eef2ee;
+  font-size: 10px;
+  line-height: 1.4;
+  text-align: center;
+  cursor: default;
+}
+
+.ev-reference {
+  margin: 0 0 8px;
+  font-size: 14px;
+  color: var(--ev-menu-muted);
+  font-style: italic;
+  text-align: center;
+}
+
+.ev-equation {
+  font-size: 28px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.ev-hint {
+  margin: 16px 0 0;
+  padding-top: 16px;
+  border-top: 1px solid var(--ev-menu-border);
+  font-size: 13px;
+  color: var(--ev-menu-muted);
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.ev-hint-icons {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.ev-hint-icon {
+  width: 20px;
+  height: 20px;
+  display: block;
+  flex-shrink: 0;
+}
+
+.ev-menu {
+  position: fixed;
+  z-index: 10000;
+  margin: 0;
+  padding: 6px;
+  background: var(--ev-menu-bg);
+  border: 1px solid var(--ev-menu-border);
+  border-radius: 10px;
+  box-shadow: var(--ev-menu-shadow);
+  min-width: 220px;
+  font-size: 13px;
+  color: var(--ev-menu-text);
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  animation: ev-menu-in 0.14s ease-out;
+}
+
+@keyframes ev-menu-in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ev-menu {
+    animation: none;
+  }
+}
+
+.ev-menu[hidden] {
+  display: none !important;
+}
+
+.ev-menu-section {
+  padding: 2px 0;
+}
+
+.ev-menu-label {
+  padding: 6px 10px 4px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ev-menu-muted);
+}
+
+.ev-menu-divider {
+  height: 1px;
+  margin: 4px 8px;
+  background: var(--ev-menu-border);
+}
+
+.ev-menu-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  margin: 1px 0;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  white-space: nowrap;
+  user-select: none;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+
+.ev-menu-item:hover,
+.ev-menu-item:focus-visible {
+  background: var(--ev-menu-hover);
+  outline: none;
+}
+
+.ev-menu-item:active {
+  background: var(--ev-menu-accent-soft);
+}
+
+.ev-menu-item-label {
+  font-weight: 500;
+}
+
+.ev-menu-item-badge {
+  flex-shrink: 0;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: #f0f0f0;
+  color: var(--ev-menu-muted);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+.ev-menu-item:hover .ev-menu-item-badge,
+.ev-menu-item:focus-visible .ev-menu-item-badge {
+  background: var(--ev-menu-accent-soft);
+  color: var(--ev-menu-accent);
+}
+
+.ev-menu-item[data-type="text"]:hover .ev-menu-item-badge,
+.ev-menu-item[data-type="text"]:focus-visible .ev-menu-item-badge {
+  background: #ffdada;
+  color: #a23a3a;
+}
+
+.ev-menu-item[data-type="tex"]:hover .ev-menu-item-badge,
+.ev-menu-item[data-type="tex"]:focus-visible .ev-menu-item-badge {
+  background: #9fc5de;
+  color: #37474f;
+}
+
+.ev-menu-item[data-type="mathml"]:hover .ev-menu-item-badge,
+.ev-menu-item[data-type="mathml"]:focus-visible .ev-menu-item-badge {
+  background: #ffe0b2;
+  color: #e65100;
+}
+
+.ev-menu-item[data-type="sheets"]:hover .ev-menu-item-badge,
+.ev-menu-item[data-type="sheets"]:focus-visible .ev-menu-item-badge {
+  background: #c8e6c9;
+  color: #1b5e20;
+}
+
+.ev-menu-item[data-type="excel"]:hover .ev-menu-item-badge,
+.ev-menu-item[data-type="excel"]:focus-visible .ev-menu-item-badge {
+  background: #c8e6c9;
+  color: #1b5e20;
+}
+
+.ev-menu-item[data-type="python"]:hover .ev-menu-item-badge,
+.ev-menu-item[data-type="python"]:focus-visible .ev-menu-item-badge {
+  background: #bbdefb;
+  color: #1565c0;
+}
+
+.ev-menu-item[data-type="csharp"]:hover .ev-menu-item-badge,
+.ev-menu-item[data-type="csharp"]:focus-visible .ev-menu-item-badge {
+  background: #e1bee7;
+  color: #6a1b9a;
+}
+
+.ev-menu-item[data-type="javascript"]:hover .ev-menu-item-badge,
+.ev-menu-item[data-type="javascript"]:focus-visible .ev-menu-item-badge {
+  background: #fff9c4;
+  color: #f57f17;
+}
