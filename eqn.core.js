@@ -1,1 +1,59 @@
-function a0_0xab21(_0xd5adfb,_0x5341ff){_0xd5adfb=_0xd5adfb-0x1a4;var _0xda8e21=a0_0xda8e();var _0xab2178=_0xda8e21[_0xd5adfb];if(a0_0xab21['SwDdrd']===undefined){var _0x473059=function(_0x590414){var _0x4fb6ab='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x538420='',_0xbdb316='';for(var _0x59836f=0x0,_0xe5d67c,_0x4fc57f,_0x3ac595=0x0;_0x4fc57f=_0x590414['charAt'](_0x3ac595++);~_0x4fc57f&&(_0xe5d67c=_0x59836f%0x4?_0xe5d67c*0x40+_0x4fc57f:_0x4fc57f,_0x59836f++%0x4)?_0x538420+=String['fromCharCode'](0xff&_0xe5d67c>>(-0x2*_0x59836f&0x6)):0x0){_0x4fc57f=_0x4fb6ab['indexOf'](_0x4fc57f);}for(var _0x731968=0x0,_0xf40e2b=_0x538420['length'];_0x731968<_0xf40e2b;_0x731968++){_0xbdb316+='%'+('00'+_0x538420['charCodeAt'](_0x731968)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0xbdb316);};a0_0xab21['yjzKWd']=_0x473059,a0_0xab21['XfmpNY']={},a0_0xab21['SwDdrd']=!![];}var _0x46f708=_0xda8e21[0x0],_0x3ad154=_0xd5adfb+_0x46f708,_0x2d4cd2=a0_0xab21['XfmpNY'][_0x3ad154];return!_0x2d4cd2?(_0xab2178=a0_0xab21['yjzKWd'](_0xab2178),a0_0xab21['XfmpNY'][_0x3ad154]=_0xab2178):_0xab2178=_0x2d4cd2,_0xab2178;}(function(_0x3faa54,_0x47b4ea){var _0x2ee4c2=a0_0xab21,_0x165c2c=_0x3faa54();while(!![]){try{var _0x2d0bb6=parseInt(_0x2ee4c2(0x1b8))/0x1+parseInt(_0x2ee4c2(0x1c3))/0x2*(-parseInt(_0x2ee4c2(0x1be))/0x3)+-parseInt(_0x2ee4c2(0x1b9))/0x4*(parseInt(_0x2ee4c2(0x1c0))/0x5)+parseInt(_0x2ee4c2(0x1bf))/0x6*(parseInt(_0x2ee4c2(0x1c1))/0x7)+-parseInt(_0x2ee4c2(0x1b5))/0x8+parseInt(_0x2ee4c2(0x1af))/0x9*(parseInt(_0x2ee4c2(0x1ae))/0xa)+-parseInt(_0x2ee4c2(0x1bc))/0xb*(parseInt(_0x2ee4c2(0x1a7))/0xc);if(_0x2d0bb6===_0x47b4ea)break;else _0x165c2c['push'](_0x165c2c['shift']());}catch(_0x499bc4){_0x165c2c['push'](_0x165c2c['shift']());}}}(a0_0xda8e,0xcabee),(function(){'use strict';var _0x1efd2e=a0_0xab21,_0x2e0a90={'OFZWa':function(_0x1cf320,_0x22ba65){return _0x1cf320^_0x22ba65;},'TiHjf':function(_0x538041,_0x5688b1){return _0x538041%_0x5688b1;},'ryVtW':function(_0x479d40,_0x3a2291){return _0x479d40<_0x3a2291;},'LSHvU':function(_0x813ddb,_0x51e87d){return _0x813ddb(_0x51e87d);},'hLFZS':function(_0xed5c94,_0x132d62){return _0xed5c94(_0x132d62);},'DyNMZ':function(_0x5a31d9,_0x231d7c){return _0x5a31d9<_0x231d7c;},'jScFb':'Empty\x20embed\x20payload','iNfjV':_0x1efd2e(0x1b1),'kxEQv':_0x1efd2e(0x1a6)};var _0x185fd7=_0x1efd2e(0x1bb),_0x5da694=new TextEncoder()[_0x1efd2e(0x1a8)](_0x2e0a90[_0x1efd2e(0x1b0)]);function _0xff3773(_0x48499b){var _0x249efc=_0x1efd2e,_0xa55564=new Uint8Array(_0x48499b['length']);for(var _0x163f5e=0x0;_0x163f5e<_0x48499b[_0x249efc(0x1a9)];_0x163f5e+=0x1){_0xa55564[_0x163f5e]=_0x2e0a90[_0x249efc(0x1c2)](_0x48499b[_0x163f5e],_0x5da694[_0x2e0a90['TiHjf'](_0x163f5e,_0x5da694[_0x249efc(0x1a9)])]);}return _0xa55564;}function _0x35ea9b(_0x33442d){var _0x30c99f=_0x1efd2e,_0x1d5336='';for(var _0x450f62=0x0;_0x2e0a90[_0x30c99f(0x1b6)](_0x450f62,_0x33442d[_0x30c99f(0x1a9)]);_0x450f62+=0x1){_0x1d5336+=String['fromCharCode'](_0x33442d[_0x450f62]);}return _0x2e0a90[_0x30c99f(0x1b7)](btoa,_0x1d5336);}function _0xb55dc1(_0x2406c2){var _0x1d7ca0=_0x1efd2e,_0x2027bc=_0x2e0a90[_0x1d7ca0(0x1ab)](atob,_0x2406c2),_0x1c0fe3=new Uint8Array(_0x2027bc['length']);for(var _0x4f14d8=0x0;_0x2e0a90[_0x1d7ca0(0x1b3)](_0x4f14d8,_0x2027bc[_0x1d7ca0(0x1a9)]);_0x4f14d8+=0x1){_0x1c0fe3[_0x4f14d8]=_0x2027bc['charCodeAt'](_0x4f14d8);}return _0x1c0fe3;}function _0x42ec53(_0x54186d){var _0x3442b6=_0x1efd2e,_0x38bcfd=_0x2e0a90['LSHvU'](_0xff3773,_0xb55dc1(_0x54186d[_0x3442b6(0x1b2)]())),_0x37ce5d=new TextDecoder()[_0x3442b6(0x1ac)](_0x38bcfd);return JSON['parse'](_0x37ce5d);}function _0x172eb5(_0x482d21){var _0x53c961=_0x1efd2e,_0x3f031a=_0x53c961(0x1b4)[_0x53c961(0x1a5)]('|'),_0x370dfd=0x0;while(!![]){switch(_0x3f031a[_0x370dfd++]){case'0':if(_0x111017[_0x53c961(0x1ad)]('{'))return JSON['parse'](_0x111017);continue;case'1':if(!_0x111017)throw new Error(_0x2e0a90['jScFb']);continue;case'2':if(_0x111017[_0x53c961(0x1ad)](_0x185fd7))return _0x42ec53(_0x111017[_0x53c961(0x1ba)](_0x185fd7['length']));continue;case'3':throw new Error(_0x53c961(0x1aa));continue;case'4':var _0x111017=_0x482d21[_0x53c961(0x1b2)]();continue;}break;}}Object[_0x1efd2e(0x1a4)](window,_0x2e0a90[_0x1efd2e(0x1bd)],{'value':Object[_0x1efd2e(0x1c4)]({'parseEmbedBody':_0x172eb5,'PAYLOAD_PREFIX':_0x185fd7}),'writable':![],'configurable':![],'enumerable':![]});}()));function a0_0xda8e(){var _0x60c496=['rvfolMvTyMvKlNbHEwXVywqUDJe','DhjPBq','rhLotvO','nhWXFdj8mhWZ','nJm4mtyYngffBMTYvG','CNLwDfC','tfniDLu','ndu0mdmYDuTYvhbu','neDkDgDbEq','C2XPy2u','zxfUx3yXpq','ndqWtMf1rvnx','A3Hfuxy','m3L0s0HOCG','oty1mty2CKntz2rc','mtKZnZq2nu5Rq0D6sa','nZbpyKPWwva','t0zAv2e','mJeWnZy0mM54A01twq','zNjLzxPL','zgvMAw5LuhjVCgvYDhK','C3bSAxq','x19fuu5Fuefzte9brf9dt0rfq19F','odaWnJrPyMvfrxm','zw5JB2rL','BgvUz3rO','vw5YzwnVz25PEMvKigvTyMvKihbHEwXVywqGzM9YBwf0','AeXgwLm','zgvJB2rL','C3rHCNrZv2L0Aa','mteWqwj1DuP6','mta0mJeXovDitvnpBa','Au5MALy'];a0_0xda8e=function(){return _0x60c496;};return a0_0xda8e();}
+(function () {
+  'use strict';
+
+  var PAYLOAD_PREFIX = 'eqn_v1=';
+  var KEY_BYTES = new TextEncoder().encode('EQN.embed.payload.v1');
+
+  function xorBytes(bytes) {
+    var out = new Uint8Array(bytes.length);
+    for (var i = 0; i < bytes.length; i += 1) {
+      out[i] = bytes[i] ^ KEY_BYTES[i % KEY_BYTES.length];
+    }
+    return out;
+  }
+
+  function bytesToBase64(bytes) {
+    var binary = '';
+    for (var i = 0; i < bytes.length; i += 1) {
+      binary += String.fromCharCode(bytes[i]);
+    }
+    return btoa(binary);
+  }
+
+  function base64ToBytes(b64) {
+    var binary = atob(b64);
+    var bytes = new Uint8Array(binary.length);
+    for (var i = 0; i < binary.length; i += 1) {
+      bytes[i] = binary.charCodeAt(i);
+    }
+    return bytes;
+  }
+
+  function decodePayload(encoded) {
+    var bytes = xorBytes(base64ToBytes(encoded.trim()));
+    var json = new TextDecoder().decode(bytes);
+    return JSON.parse(json);
+  }
+
+  function parseEmbedBody(body) {
+    var trimmed = body.trim();
+    if (!trimmed) throw new Error('Empty embed payload');
+
+    if (trimmed.startsWith(PAYLOAD_PREFIX)) {
+      return decodePayload(trimmed.slice(PAYLOAD_PREFIX.length));
+    }
+
+    if (trimmed.startsWith('{')) {
+      return JSON.parse(trimmed);
+    }
+
+    throw new Error('Unrecognized embed payload format');
+  }
+
+  Object.defineProperty(window, '__EQN_PAYLOAD_CODEC__', {
+    value: Object.freeze({ parseEmbedBody, PAYLOAD_PREFIX }),
+    writable: false,
+    configurable: false,
+    enumerable: false,
+  });
+})();

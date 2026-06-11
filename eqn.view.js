@@ -1,1 +1,623 @@
-function a0_0x22ae(_0x4220b0,_0x4ed7b3){_0x4220b0=_0x4220b0-0x183;const _0x284626=a0_0x2846();let _0x22ae56=_0x284626[_0x4220b0];if(a0_0x22ae['sHdghf']===undefined){var _0x179526=function(_0x5f538d){const _0x34721e='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xf3412='',_0x99b9b3='';for(let _0x27d185=0x0,_0x10e7f9,_0x4de82e,_0x508ed7=0x0;_0x4de82e=_0x5f538d['charAt'](_0x508ed7++);~_0x4de82e&&(_0x10e7f9=_0x27d185%0x4?_0x10e7f9*0x40+_0x4de82e:_0x4de82e,_0x27d185++%0x4)?_0xf3412+=String['fromCharCode'](0xff&_0x10e7f9>>(-0x2*_0x27d185&0x6)):0x0){_0x4de82e=_0x34721e['indexOf'](_0x4de82e);}for(let _0x60deb7=0x0,_0x27ae0c=_0xf3412['length'];_0x60deb7<_0x27ae0c;_0x60deb7++){_0x99b9b3+='%'+('00'+_0xf3412['charCodeAt'](_0x60deb7)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x99b9b3);};a0_0x22ae['jHMHHp']=_0x179526,a0_0x22ae['BoHiqr']={},a0_0x22ae['sHdghf']=!![];}const _0x7dcf1f=_0x284626[0x0],_0x1744e0=_0x4220b0+_0x7dcf1f,_0x4eec35=a0_0x22ae['BoHiqr'][_0x1744e0];return!_0x4eec35?(_0x22ae56=a0_0x22ae['jHMHHp'](_0x22ae56),a0_0x22ae['BoHiqr'][_0x1744e0]=_0x22ae56):_0x22ae56=_0x4eec35,_0x22ae56;}function a0_0x2846(){const _0x1b3cf0=['y2rJB2u','lI9LBwjLzc8','q29Kzq','u3LnCwm','vgfI','zvfnv3i','DMfSDwu','ywrK','r2r1qxC','vevy','DhjPBq','phn2zYbJBgfZCZ0IzxyTAgLUDc1Py29UiIb2Awv3qM94psiWidaGmJqGmJqIigfYAweTAgLKzgvUpsj0CNvLiIb0AxrSzt0Itwf0Ae1miJ48CMvJDcb3Awr0Ad0ImJqIigHLAwDODd0ImJqIihj4psiYlJuIigzPBgW9iInfnJuXmdaIlZ48Dgv4Dcb4psiXmIiGEt0ImtuUnsiGDgv4Dc1HBMnOB3i9iM1PzgrSzsiGzMLSBd0Ii2zMzIiGzM9UDc1Myw1PBhK9iLnLz29LifvjlcbZyw5ZlxnLCMLMiIbMB250lxnPEMu9iJCUnsiGzM9UDc13zwLNAhq9iJCWmci+tu1mpc90zxH0pJWVC3zNpG','z2v0','DgfIBgu','r0rKBfO','xhmQpvXZkICOkd86xfWNFfTEj10PkIKN','t3zxu0u','C3jJ','wK1kuee','A3zYBMm','B1LeEfK','t1vzrNC','q0zUAwK','wKvjv1m','Dgv4Da','z2v0qM91BMrPBMDdBgLLBNrszwn0','cIaGicaGidXWignSyxnZpsjLDI1YzwzLCMvUy2uIpJWVCd4kicaGicaGpgrPDIbJBgfZCZ0IzxyTzxf1yxrPB24IihjVBgu9iMLTzYiGyxjPys1SywjLBd0I','Cg9W','y29WEu1LBNu','C3bSAxq','C2v0','zxyTz2XVyMfSlw1LBNu','Dgv4Dc9ODg1S','yNv0Dg9U','vhjluK0','wLb5zgC','qYmGzNvUy3rPB24','yM90Dg9T','rw50zxi','vfjlz00','zvHqC3O','C3r5Bgu','rxf1yxrPB246ia','rxnJyxbL','CMvTB3zLqwXSuMfUz2vZ','EdPMBwXH','mtiXmJrOzvnItei','phn2zYbJBgfZCZ0IzxyTAgLUDc1Py29UiIb2Awv3qM94psiWidaGmJqGmJqIigfYAweTAgLKzgvUpsj0CNvLiIb0AxrSzt0IqYmIpJXYzwn0ihDPzhrOpsiYnciGAgvPz2H0psiYnciGCNG9iJiUnsiGzMLSBd0IiZy4mJe3qsiVpJX0zxH0ihG9iJeYiIb5psiXnI41iIb0zxH0lwfUy2HVCJ0IBwLKzgXLiIbMAwXSpsiJzMzMiIbMB250lwzHBwLSEt0Iu2vNB2uGvuKSihnHBNmTC2vYAwyIigzVBNqTC2L6zt0ImtaIigzVBNqTD2vPz2H0psi3mdaIpKmJpc90zxH0pJWVC3zNpG','re9nq29UDgvUDeXVywrLza','zM9YrwfJAa','y2XPCgjVyxjK','sg9Tzq','D21mu28','ChvZAa','ChL0Ag9U','lMv2lwnHCMqTzM9VDgvY','y1vgDwS','BwLU','ExDpDha','ywn0AxzLrwXLBwvUDa','zgf0ys1LDI1ZDhLSzxm','C2nYAxb0w3nYyYO9iMvXBI52Awv3lMPZiL0','BuLVuLK','BgvMDa','Bwf0Ag1S','r0jZy1e','C2HLzxrZ','BgLUAW','BgTov3K','yxjPys1SywjLBa','DgvZDa','DgfYz2v0','vfn5yxy','Dfjuuwi','Bwjiy3e','CMvTB3zLqxr0CMLIDxrL','AgfZ','zxyTy2fYza','CMvMzxjLBMnL','EeTfExe','y2XPCgjVyxjKrgf0yq','Cg9ZAxrPB246zML4zwq7BgvMDdOTotK5oxb4o3rVCdOWo29WywnPDhK6ma','BwvUDq','AhjLzG','Bvfts1i','u3bYzwfKC2HLzxq','rfbSAgC','phrHyMXLihHTBg5ZpsjODhrWoI8VD3D3lNCZlM9YzY8XotK5l3HODg1SiIbKyxrHlxnOzwv0CY1YB290psiXiIbKyxrHlxnOzwv0CY1Iyw90psiXiG','uNz5tLO','y2XPzw50wa','z2v0rwXLBwvUDej5swq','y2XHC3nmAxn0','DNDpCNi','pgrPDIbJBgfZCZ0IzxyTBwvUDs1Zzwn0Aw9UiJ48zgL2ignSyxnZpsjLDI1Tzw51lwXHyMvSiJ4','vgv4Da','t1HAyM4','AKndsKK','ovP6tw9fCG','veTVqMS','rM9TBM0','zuHzENi','CxvLCNLtzwXLy3rVCKfSBa','uhvbt0u','mZC3nJK0nJbIExnRDvO','veLTB2G','wgf2y2C','uuviwNu','D3jPDgu','yxfcuhO','tNfMvKK','CxvLCNLtzwXLy3rVCG','C2v0qxr0CMLIDxrL','y3jLyxrLrwXLBwvUDa','qNrcD1O','otyZnJy2nNzRr3HlBq','uMnNreS','zM9YBwf0CW','yvH6u28','y2XVC2vZDa','BfP3AxC','CgfYC2u','jMfTCdS','BgfIzwW','mtC5odiXnwHQrNLmqG','qxjYB3DvCa','q29WEsbMywLSzwqG4OcuignSAxbIB2fYzcb1BMf2ywLSywjSzs4','C3rVCfbYB3bHz2f0Aw9U','vMXbufe','yxjPys1OyxnWB3b1Ca','uw1dt0q','Bwf4','y2XHC3noyw1L','q29WEsbLCxvHDgLVBIbHCW','BwPXs0C','jMX0oW','uev0tvm','ww9UBKq','DKr4veK','zxruyLC','y2Pwrhm','nxWXFdr8mNWWFdm','C29Tzq','A2v5','rg1XBxy','qMTTy3K','vgvy','ywrKrxzLBNrmAxn0zw5LCG','zMLSDgvY','EdPUDw0','svHnuuG','zgf0ys1ZAgvLDhmTzM9YBxvSyq','Bwf0y2G','Euvyz2K','AgvHza','q29WAwvKigfZia','EdPZDhi','C2vJDgLVBG','BgvUz3rO','y2XPy2S','lIbby3rPDMf0zsb0BYbVCgvUignVChKGBwvUDs4','uunkqum','zM9JDxm','rw5K','y3vYCMvUDfnJCMLWDa','rxf1yxrPB24Gzw1IzwqGDw5HDMfPBgfIBguGB24GDgHPCYbKB21HAw4U','EgPVEu8','CMvTB3zL','pc9NB29NBguTC2HLzxrZlwH0BwWTB3jPz2LUpG','CM9Szq','tLbTuhO','yKrMENC','CMvS','tu1m','DgqSihrO','Du1ruLe','zgf0ys1ZDhLSzq','zMfSC2u','Cg1JuLa','BwfW','phnWyw4Gy2XHC3m9iMv2lwHPBNqTAwnVBNmIihjVBgu9iMLTzYiGyxjPys1SywjLBd0Iq29WEsbMB3jTyxrZiJ4','zxf1yxrPB24','y3nZvgv4Da','Dhj1zq','y29WEq','C2nYB2XS','DgGSihrK','BMfTzq','iJ4kicaGicaGica8C3bHBIbHCMLHlwHPzgrLBJ0IDhj1zsi+','C2v0rgf0yq','y2XPzw50wq','CMvTB3zLq2HPBgq','DgfIsw5KzxG','zxHJzwW','pgH0BwW+pgHLywq+pg1LDgeGy2HHCNnLDd0IDxrMltGIpJWVAgvHzd48yM9KEt48is0Tu3rHCNrgCMfNBwvUDc0TpJXTzxrHig5HBwu9iMDLBMvYyxrVCIiGy29UDgvUDd0Iu2HLzxrZiI8+','CMvWBgfJzq','pc9ZCgfUpGOGicaGicaGicaGphnWyw4Gy2XHC3m9iMv2lw1LBNuTAxrLBs1IywrNzsi+','AgLKzgvU','A3bwufK','Axvnz3G','zxf1yxrPB25FDMLLDY0TCgXHy2vOB2XKzxi','AgP4Afi','zgL2','z0zMDwO','iIbYB2XLpsjTzw51AxrLBsi+cIaGicaGicaGica8C3bHBIbJBgfZCZ0IzxyTBwvUDs1PDgvTlwXHyMvSiJ4','D2LKDgG','zxbLB1O','seXVy00','z2v0qxr0CMLIDxrL','uwrLtMy','twf0Ae1m','zxyTy29WEs1ZDgf0Dxm','r1zzBwK','nduWDe1wAeTf','ChjLDMvUDerLzMf1Bhq','z2v0u2vSzwn0Aw9U','Ag9ZDa','s2jmwvy','lMv2lw1LBNuTAxrLBq','wurdDeC','yMzLu00','rxHJzwWGzM9YBxvSyq','ywrKuMfUz2u','Dgv4','Aw5UzxjxAwr0Aa','shHdu2S','x19fuu5Fuefzte9brf9dt0rfq19F','Aw5UzxjizwLNAhq','Aw5JBhvKzxm','rvDPq1G','w2rHDgeTDhLWzv0','A2v5zg93BG','Dgv4Dc9WBgfPBG','Aw5Uzxjive1m','suXzzMi','r29Vz2XLifnOzwv0CYbMB3jTDwXH','zNjVBq','EfPuvuS','rvr0wxy','pc9ZCgfUpGOGicaGica8l2rPDJ4kicaGicaGphaGy2XHC3m9iMv2lwHPBNqIpGOGicaGicaGidXZCgfUpKfJDgL2yxrLihrVignVChK8l3nWyw4+cIaGicaGicaG','rxf1yxrPB25wAwv3','D0PKzK4','qLvqrLG','mKziEu9Lwa','y3nOyxjW','Aw5KzxHpzG','sfPSywu','mta0ndy5odL0ANvJAwe','phn2zYbJBgfZCZ0IzxyTAgLUDc1Py29UiIb2Awv3qM94psiWidaGmJqGmJqIigfYAweTAgLKzgvUpsj0CNvLiIb0AxrSzt0IrxHJzwWIpJXYzwn0ihDPzhrOpsiYnciGAgvPz2H0psiYnciGCNG9iJiUnsiGzMLSBd0IiZeWn0m0msiVpJXWyxrOigzPBgW9iM5VBMuIihn0CM9Rzt0Ii2zMzIiGC3rYB2TLlxDPzhrOpsiYlJiIihn0CM9Rzs1SAw5Ly2fWpsjYB3vUzciGzd0IttGGogW4idHnmtyGogWToca4iI8+pc9ZDMC+','r2zKD0C','mZq3nZu2mw1pqNzQAq','vMz1zuO','uwT5Cfy','pgrPDIbJBgfZCZ0IzxyTBwvUDs1KAxzPzgvYiJ48l2rPDJ4','cIaGicaGicaGpgj1DhrVBIb0ExbLpsjIDxr0B24IignSyxnZpsjLDI1Tzw51lwL0zw0IigrHDgeTDhLWzt0I','Dg9W','CgfYC2vgCM9Tu3rYAw5N','D3jPDgvuzxH0','pc9KAxy+','yxbWzw5Kq2HPBgq','Bg9HzgLUzW','vgDwBMW','yxjPys1LEhbHBMrLza','yM9KEq','weXt','zxHLy0nVBw1HBMqGy29WEsbMywLSzwq','CMvXDwvZDefUAw1HDgLVBKzYyw1L','zgf0ys1ZAgvLDhmTDMfSDwu','C2TPCerVBvnLzwq','phn0EwXLihr5Cgu9iNrLEhqVy3nZiJ50zhTIB3jKzxi6mxb4ihnVBgLKicnJy2m7FwjYE21ZBY1KyxrHlxbSywnLBwvUDdPZyw1LlwnLBgW7FtWVC3r5Bgu+','zgvSzxrL','wxngAeS','zxyTBwvUDq','AxnbCNjHEq','mJm3nJCYog9ttLPRsW','zw5KC1DPDgG','BgLUA1TKyxrHlwv2lxn0EwXLC10','jNf1B3q7','AgvPz2H0','D1b1rey','suzsrMG','tM90yxrPB24','yuLPDva','AMzsqNu','yMfKz2u','D3bZDMu','zxHLy0nVBw1HBMq','AM9PBG','s0TyELC','y2XHC3nPyW','Dgv4DenVBNrLBNq','C3rHCNrZv2L0Aa'];a0_0x2846=function(){return _0x1b3cf0;};return a0_0x2846();}(function(_0x5def0f,_0x1540ff){const _0x2e92ab=a0_0x22ae,_0x2df2bf=_0x5def0f();while(!![]){try{const _0xbba226=-parseInt(_0x2e92ab(0x29a))/0x1+-parseInt(_0x2e92ab(0x1ee))/0x2*(parseInt(_0x2e92ab(0x1f5))/0x3)+-parseInt(_0x2e92ab(0x24d))/0x4*(-parseInt(_0x2e92ab(0x1d0))/0x5)+parseInt(_0x2e92ab(0x291))/0x6+-parseInt(_0x2e92ab(0x1f2))/0x7+parseInt(_0x2e92ab(0x20d))/0x8*(-parseInt(_0x2e92ab(0x280))/0x9)+parseInt(_0x2e92ab(0x286))/0xa;if(_0xbba226===_0x1540ff)break;else _0x2df2bf['push'](_0x2df2bf['shift']());}catch(_0x940b){_0x2df2bf['push'](_0x2df2bf['shift']());}}}(a0_0x2846,0xdde7f),(function(){'use strict';const _0x40d192=a0_0x22ae,_0x4df95c={'OXZbn':_0x40d192(0x1ce),'IQJLb':_0x40d192(0x188),'ywOtp':'polite','EWiCX':'ev-sr-only','yEXgi':'div','TSyav':'ev-global-menu','cUFuk':_0x40d192(0x1d5),'TgVnl':function(_0x332203,_0x1a54ad){return _0x332203-_0x1a54ad;},'XbhKE':function(_0x858282){return _0x858282();},'TImoh':function(_0x379608,_0x315a81){return _0x379608===_0x315a81;},'ZEIWS':'ArrowDown','mjqKG':_0x40d192(0x29b),'YsFhK':function(_0xd19029,_0x14fcf1){return _0xd19029(_0x14fcf1);},'BtBwZ':_0x40d192(0x19e),'QmCOD':function(_0x445d5e,_0x3613c6){return _0x445d5e===_0x3613c6;},'QkypV':_0x40d192(0x223),'wJdfN':function(_0x32b260,_0x77ec3c){return _0x32b260>_0x77ec3c;},'uMQRQ':function(_0x50e45f){return _0x50e45f();},'jCCJI':_0x40d192(0x25c),'GduAw':function(_0x405758,_0x45a12f){return _0x405758-_0x45a12f;},'RvyNZ':_0x40d192(0x220),'Fomnm':_0x40d192(0x1ab),'ZMJPA':function(_0x648c21,_0x472a71){return _0x648c21||_0x472a71;},'aXzSo':_0x40d192(0x21c),'QRbet':_0x40d192(0x23a),'xjoyO':'dark','QwCem':function(_0x31b3ae,_0x3f76c6){return _0x31b3ae(_0x3f76c6);},'Xavcg':_0x40d192(0x1b6),'xKEyq':_0x40d192(0x1f8),'QEHZu':'</div>','wmLSo':'Notation','xZTUK':_0x40d192(0x274),'DPlhg':function(_0x386444){return _0x386444();},'PEtMS':_0x40d192(0x20b),'fVQov':_0x40d192(0x1a4),'SjYav':_0x40d192(0x2a3),'OvWSE':_0x40d192(0x1b4),'Dmqmv':_0x40d192(0x1e2),'lZwiw':'contextmenu','bfeSM':function(_0x4b8a38,_0x105d39){return _0x4b8a38(_0x105d39);},'GVYmi':_0x40d192(0x201),'epeoZ':function(_0x112dc9,_0x3e7661){return _0x112dc9||_0x3e7661;},'kvrnc':_0x40d192(0x1b2),'eHYzr':function(_0x8dfe6d,_0xa8a11e){return _0x8dfe6d>_0xa8a11e;},'GfdwG':function(_0x52af2b,_0xe48c00){return _0x52af2b-_0xe48c00;},'bDfzw':function(_0x74201d,_0x5bea68,_0x449a02,_0x871a2b,_0x29c989,_0x49353b){return _0x74201d(_0x5bea68,_0x449a02,_0x871a2b,_0x29c989,_0x49353b);},'hjxhR':'textarea','mbHcq':_0x40d192(0x206),'SyMqc':_0x40d192(0x276),'ETtYv':_0x40d192(0x24c),'gFfuj':_0x40d192(0x197),'aIiuP':function(_0x4e75da,_0x60f353){return _0x4e75da(_0x60f353);},'YonnD':_0x40d192(0x22c),'jfRBu':_0x40d192(0x1a9),'wPuDF':_0x40d192(0x23f),'ubxGu':_0x40d192(0x1b3),'wpsve':function(_0x3a2842,_0x3e4ce6){return _0x3a2842===_0x3e4ce6;},'PuAOE':_0x40d192(0x261),'oYDxY':function(_0x1166d5,_0x5f44ae,_0x1fff2b,_0xe4c298){return _0x1166d5(_0x5f44ae,_0x1fff2b,_0xe4c298);},'VlAPQ':function(_0x3aa88d,_0x44a76b){return _0x3aa88d(_0x44a76b);},'kpVPY':function(_0x57502a,_0x15ea85){return _0x57502a(_0x15ea85);},'lkNWy':function(_0x15fecc,_0x2c61d1,_0x2d21fa){return _0x15fecc(_0x2c61d1,_0x2d21fa);},'KbLYV':function(_0x2c4bc4,_0x39d3fa){return _0x2c4bc4(_0x39d3fa);},'ILYfb':_0x40d192(0x29c),'OUYFw':function(_0x56b175){return _0x56b175();},'vDxTI':_0x40d192(0x1a0),'aqBPz':function(_0x4d5499,_0x41fee9){return _0x4d5499+_0x41fee9;},'QCJAC':'.ev-card-footer','Bkmcy':function(_0x46e7eb){return _0x46e7eb();},'zAebj':_0x40d192(0x1c3),'mIoRY':_0x40d192(0x240),'etTbW':_0x40d192(0x29f),'YPmVV':_0x40d192(0x271),'NqfVI':_0x40d192(0x264),'QdeNf':'.ev-reference','HWIcO':_0x40d192(0x2a5),'mQSKR':function(_0x3f31a0,_0x78e9f2){return _0x3f31a0(_0x78e9f2);},'BUPFX':function(_0x58cd67){return _0x58cd67();},'XopMB':_0x40d192(0x262),'SUEto':'stylesheet','cdcoe':function(_0x24fb01){return _0x24fb01();},'eXPsz':_0x40d192(0x25f),'IFRFh':_0x40d192(0x1bc),'KKXzW':_0x40d192(0x255),'ZPydg':_0x40d192(0x1ef),'cjVDs':_0x40d192(0x1cd),'vwOrr':_0x40d192(0x1a8),'TrKRM':_0x40d192(0x203),'RcgDK':_0x40d192(0x1e6),'pmcRP':_0x40d192(0x221),'eQMWr':'<svg\x20class=\x22ev-hint-icon\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20aria-hidden=\x22true\x22\x20title=\x22Google\x20Sheets\x22><rect\x20width=\x2224\x22\x20height=\x2224\x22\x20rx=\x222.5\x22\x20fill=\x22#0F9D58\x22/><path\x20fill=\x22#fff\x22\x20d=\x22M7\x206h7l4\x204v8H7V6zm7\x200v4h4\x22/><path\x20stroke=\x22#fff\x22\x20stroke-width=\x221.2\x22\x20d=\x22M9\x2011h6M9\x2014h6M9\x2017h4\x22/></svg>','NPmPz':'<svg\x20class=\x22ev-hint-icon\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20aria-hidden=\x22true\x22\x20title=\x22Python\x22><path\x20fill=\x22#3776AB\x22\x20d=\x22M11.914\x200C5.82\x200\x206.28\x202.657\x206.28\x202.657l.007\x202.754h5.814v.827H4.108S0\x205.847\x200\x2011.969c0\x206.173\x203.586\x205.946\x203.586\x205.946h2.144V15.07s-.094-3.594\x203.548-3.594h6.138s3.448.055\x203.448-3.265V2.779S18.083\x200\x2011.914\x200zM8.785\x201.87a1.034\x201.034\x200\x201\x201\x200\x202.068\x201.034\x201.034\x200\x200\x201\x200-2.068z\x22/><path\x20fill=\x22#FFD43B\x22\x20d=\x22M12.086\x2024c6.093\x200\x205.637-2.657\x205.637-2.657l-.007-2.754h-5.814v-.827h8.993S24\x2018.153\x2024\x2012.031c0-6.173-3.586-5.946-3.586-5.946h-2.144v2.845s.094\x203.594-3.548\x203.594h-6.138s-3.448-.055-3.448\x203.265v6.868S5.917\x2024\x2012.086\x2024zm3.129-1.87a1.034\x201.034\x200\x201\x201\x200-2.068\x201.034\x201.034\x200\x200\x201\x200\x202.068z\x22/></svg>','IXMQH':'<svg\x20class=\x22ev-hint-icon\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20aria-hidden=\x22true\x22\x20title=\x22TeX\x22><rect\x20width=\x2224\x22\x20height=\x2224\x22\x20rx=\x222.5\x22\x20fill=\x22#5D8090\x22/><text\x20x=\x2212\x22\x20y=\x2216.5\x22\x20text-anchor=\x22middle\x22\x20fill=\x22#fff\x22\x20font-family=\x22Georgia,\x20serif\x22\x20font-size=\x2210\x22\x20font-weight=\x22700\x22\x20font-style=\x22italic\x22>TeX</text></svg>','YDCtG':function(_0xfc40a5){return _0xfc40a5();}};const _0xe8c033=[_0x40d192(0x237),_0x40d192(0x1da),_0x4df95c[_0x40d192(0x247)],_0x4df95c[_0x40d192(0x213)],_0x4df95c[_0x40d192(0x285)],_0x4df95c[_0x40d192(0x21b)],_0x4df95c[_0x40d192(0x242)],'javascript'],_0x3937cb={'text':{'section':_0x40d192(0x214),'label':_0x40d192(0x27d),'badge':'TXT'},'tex':{'section':_0x40d192(0x214),'label':_0x40d192(0x18d),'badge':_0x40d192(0x228)},'mathml':{'section':_0x4df95c['wmLSo'],'label':_0x4df95c[_0x40d192(0x187)],'badge':_0x4df95c[_0x40d192(0x27b)]},'excel':{'section':_0x4df95c['xZTUK'],'label':_0x40d192(0x1d8),'badge':_0x4df95c[_0x40d192(0x241)]},'sheets':{'section':_0x40d192(0x274),'label':_0x4df95c[_0x40d192(0x292)],'badge':'GS'},'python':{'section':_0x40d192(0x221),'label':'Python\x20function','badge':'PY'},'csharp':{'section':_0x40d192(0x221),'label':_0x40d192(0x243),'badge':'C#'},'javascript':{'section':_0x4df95c[_0x40d192(0x1ad)],'label':'JavaScript\x20function','badge':'JS'}},_0x2441e6={'excel':_0x40d192(0x1f3),'sheets':_0x4df95c[_0x40d192(0x224)],'python':_0x4df95c[_0x40d192(0x1a5)],'csharp':_0x40d192(0x24e),'javascript':'<svg\x20class=\x22ev-hint-icon\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20aria-hidden=\x22true\x22\x20title=\x22JavaScript\x22><rect\x20width=\x2224\x22\x20height=\x2224\x22\x20rx=\x222.5\x22\x20fill=\x22#F7DF1E\x22/><text\x20x=\x2212\x22\x20y=\x2216\x22\x20text-anchor=\x22middle\x22\x20fill=\x22#323330\x22\x20font-family=\x22Segoe\x20UI,\x20sans-serif\x22\x20font-size=\x228.5\x22\x20font-weight=\x22700\x22>JS</text></svg>','text':'<svg\x20class=\x22ev-hint-icon\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20aria-hidden=\x22true\x22\x20title=\x22Text\x22><rect\x20width=\x2224\x22\x20height=\x2224\x22\x20rx=\x222.5\x22\x20fill=\x22#E8E8E8\x22/><text\x20x=\x2212\x22\x20y=\x2216\x22\x20text-anchor=\x22middle\x22\x20fill=\x22#616161\x22\x20font-family=\x22Segoe\x20UI,\x20sans-serif\x22\x20font-size=\x229\x22\x20font-weight=\x22600\x22>Aa</text></svg>','tex':_0x4df95c[_0x40d192(0x191)],'mathml':_0x40d192(0x22a)};let _0x4b59f0=![];const _0x5df3ba=new Map();let _0x3bfec9=null,_0x531531=_0xe8c033,_0x1a056e=null;function _0xf72799(){const _0x116c80=_0x40d192;let _0x160fdf=document[_0x116c80(0x279)](_0x4df95c[_0x116c80(0x27e)]);if(!_0x160fdf){const _0x1dd85b=_0x4df95c['IQJLb'][_0x116c80(0x23c)]('|');let _0x1b19fa=0x0;while(!![]){switch(_0x1dd85b[_0x1b19fa++]){case'0':_0x160fdf[_0x116c80(0x28e)]('aria-atomic',_0x116c80(0x1b2));continue;case'1':_0x160fdf['id']=_0x4df95c[_0x116c80(0x27e)];continue;case'2':_0x160fdf['setAttribute']('aria-live',_0x4df95c[_0x116c80(0x259)]);continue;case'3':document['body']['appendChild'](_0x160fdf);continue;case'4':_0x160fdf[_0x116c80(0x2a2)]=_0x4df95c[_0x116c80(0x1e0)];continue;case'5':_0x160fdf=document[_0x116c80(0x28f)](_0x4df95c['yEXgi']);continue;}break;}}return _0x160fdf;}function _0x48405d(_0x563182){const _0x1aca79=_0x40d192,_0x7ccfc0=_0xf72799();_0x7ccfc0['textContent']='',window[_0x1aca79(0x205)](()=>{const _0x13daf6=_0x1aca79;_0x7ccfc0[_0x13daf6(0x21d)]=_0x563182;});}function _0x2a35ee(){const _0x45255d=_0x40d192,_0x6e7572=document['getElementById'](_0x4df95c[_0x45255d(0x267)]);if(!_0x6e7572||_0x6e7572[_0x45255d(0x1c0)])return[];return Array[_0x45255d(0x1e7)](_0x6e7572[_0x45255d(0x284)](_0x4df95c[_0x45255d(0x257)]));}function _0x3e7d6d(_0x169baa){const _0x572f17=_0x40d192,_0x2c2170=_0x2a35ee();if(!_0x2c2170[_0x572f17(0x199)])return;const _0x240fd3=Math['max'](0x0,Math[_0x572f17(0x258)](_0x169baa,_0x4df95c[_0x572f17(0x200)](_0x2c2170[_0x572f17(0x199)],0x1)));_0x2c2170[_0x240fd3][_0x572f17(0x19d)]();}function _0x48212c(_0x40131d){const _0x2fe3ad=_0x40d192,_0xaec698=document[_0x2fe3ad(0x279)](_0x4df95c['TSyav']);if(!_0xaec698||_0xaec698[_0x2fe3ad(0x1c0)])return;const _0x23513e=_0x4df95c['XbhKE'](_0x2a35ee);if(!_0x23513e[_0x2fe3ad(0x199)])return;const _0x27c57d=_0x23513e[_0x2fe3ad(0x1f0)](document[_0x2fe3ad(0x25a)]);if(_0x4df95c[_0x2fe3ad(0x287)](_0x40131d[_0x2fe3ad(0x18a)],_0x4df95c[_0x2fe3ad(0x236)]))_0x40131d[_0x2fe3ad(0x1d1)](),_0x3e7d6d(_0x27c57d<0x0?0x0:_0x27c57d+0x1);else{if(_0x40131d[_0x2fe3ad(0x18a)]===_0x4df95c[_0x2fe3ad(0x2a4)])_0x40131d[_0x2fe3ad(0x1d1)](),_0x4df95c[_0x2fe3ad(0x20a)](_0x3e7d6d,_0x27c57d<0x0?_0x23513e[_0x2fe3ad(0x199)]-0x1:_0x27c57d-0x1);else{if(_0x40131d['key']===_0x2fe3ad(0x252))_0x40131d[_0x2fe3ad(0x1d1)](),_0x3e7d6d(0x0);else{if(_0x40131d[_0x2fe3ad(0x18a)]===_0x4df95c[_0x2fe3ad(0x290)])_0x40131d[_0x2fe3ad(0x1d1)](),_0x3e7d6d(_0x4df95c[_0x2fe3ad(0x200)](_0x23513e[_0x2fe3ad(0x199)],0x1));else _0x4df95c[_0x2fe3ad(0x2a0)](_0x40131d[_0x2fe3ad(0x18a)],_0x4df95c[_0x2fe3ad(0x1f7)])&&_0x42d2f3();}}}}function _0x21e4a1(){const _0x40763f=_0x40d192,_0x432eaa=window['__EQN_ALLOWED_DOMAINS__'];return Array[_0x40763f(0x20c)](_0x432eaa)?_0x432eaa:[];}function _0x53c01f(){const _0x267413=_0x40d192;if(_0x4b59f0)return!![];return _0x4b59f0=_0x4df95c[_0x267413(0x1ec)](_0x4df95c[_0x267413(0x1aa)](_0x21e4a1)['length'],0x0),_0x4b59f0;}function _0x28464d(){const _0x1bcdb1=_0x40d192;if(!_0x53c01f())return![];const _0x434890=window['location'][_0x1bcdb1(0x1d3)]['toLowerCase']();return _0x21e4a1()[_0x1bcdb1(0x189)](_0x1562df=>_0x1562df===_0x434890);}function _0x482c8b(){const _0x323600=_0x40d192,_0x220b38=window['__EQN_EMBED_BASE__'];if(_0x220b38)return new URL(_0x220b38);const _0x2bd6a2=document[_0x323600(0x19f)];if(_0x2bd6a2?.[_0x323600(0x230)])return new URL('.',_0x2bd6a2[_0x323600(0x230)]);const _0xf9cb4a=document[_0x323600(0x284)](_0x4df95c[_0x323600(0x27f)]),_0x4b398b=_0xf9cb4a[_0x4df95c[_0x323600(0x227)](_0xf9cb4a[_0x323600(0x199)],0x1)];return _0x4b398b?.[_0x323600(0x230)]?new URL('.',_0x4b398b['src']):new URL(_0x4df95c[_0x323600(0x277)],window['location'][_0x323600(0x272)]);}function _0x1b86f1(_0x2bbeb1,_0x18d2f1){const _0x509666=_0x40d192,_0x473883=_0x18d2f1?.[_0x509666(0x248)],_0x44ef43=_0x2bbeb1[_0x509666(0x1cb)](_0x4df95c[_0x509666(0x282)]),_0x3b3d7e=_0x4df95c[_0x509666(0x231)](_0x473883,_0x44ef43)||_0x4df95c['aXzSo'];return _0x3b3d7e===_0x4df95c['QRbet']||_0x4df95c['QmCOD'](_0x3b3d7e,_0x4df95c[_0x509666(0x1a1)])?_0x3b3d7e:_0x4df95c[_0x509666(0x294)];}function _0x3a6db6(_0x427958,_0x3ab884){const _0x3b04f8=_0x40d192;if(_0x3ab884===_0x4df95c[_0x3b04f8(0x294)])_0x427958[_0x3b04f8(0x26a)](_0x4df95c['Fomnm']);else _0x427958['setAttribute'](_0x4df95c[_0x3b04f8(0x282)],_0x3ab884);}function _0x394c2a(_0x4ca64b){const _0x382ade=_0x40d192,_0x3434f9=(_0x4ca64b[_0x382ade(0x21d)]||'')[_0x382ade(0x229)](),_0xf7e29f=_0x3434f9['split'](/\r?\n/);if(!_0xf7e29f[_0x382ade(0x199)])return null;let _0x2af090=0x0;if(/^id_key=/i['test'](_0xf7e29f[0x0]['trim']()))_0x2af090=0x1;const _0x44a88f=_0xf7e29f['slice'](_0x2af090)[_0x382ade(0x21a)]('\x0a')[_0x382ade(0x229)]();if(!_0x44a88f)return null;try{const _0x28b64b=window[_0x382ade(0x1dd)]?.['parseEmbedBody'],_0x5a220d=_0x28b64b?_0x4df95c['QwCem'](_0x28b64b,_0x44a88f):JSON[_0x382ade(0x297)](_0x44a88f);return{'payload':_0x5a220d,'reference':_0x4ca64b[_0x382ade(0x1cb)](_0x4df95c[_0x382ade(0x288)])||_0x5a220d['reference']||'','formula':_0x4ca64b[_0x382ade(0x1cb)]('formula')||_0x5a220d[_0x382ade(0x1b0)]||''};}catch{return null;}}function _0x354554(_0x2169cd){const _0x32c0f2=_0x40d192,_0x1acebb=_0x2169cd[_0x32c0f2(0x18f)](_0x139282=>_0x2441e6[_0x139282])[_0x32c0f2(0x1ae)](_0x7afa7c=>_0x2441e6[_0x7afa7c])['join']('');return _0x32c0f2(0x1af)+_0x1acebb+'</span>';}function _0x501e54(_0x16f0fa){const _0x2898af=_0x40d192,_0x424e61=new Map();for(const _0x2e1a58 of _0x16f0fa){const _0x10a494=_0x3937cb[_0x2e1a58];if(!_0x10a494)continue;if(!_0x424e61[_0x2898af(0x26b)](_0x10a494[_0x2898af(0x198)]))_0x424e61[_0x2898af(0x23d)](_0x10a494[_0x2898af(0x198)],[]);_0x424e61[_0x2898af(0x22b)](_0x10a494[_0x2898af(0x198)])[_0x2898af(0x254)](_0x2e1a58);}const _0x24e0ff=[_0x4df95c[_0x2898af(0x253)],_0x4df95c[_0x2898af(0x1e8)],'Code'],_0x334fd8=[];return _0x24e0ff[_0x2898af(0x250)]((_0x1ab5c5,_0x379048)=>{const _0x23a120=_0x2898af,_0x1fce1e=_0x424e61[_0x23a120(0x22b)](_0x1ab5c5);if(!_0x1fce1e?.[_0x23a120(0x199)])return;if(_0x334fd8['length'])_0x334fd8['push'](_0x4df95c[_0x23a120(0x26e)]);_0x334fd8['push'](_0x23a120(0x27c)+_0x1ab5c5+_0x23a120(0x1fd));for(const _0x3e7cca of _0x1fce1e){const _0x4a2986=_0x3937cb[_0x3e7cca];_0x334fd8[_0x23a120(0x254)](_0x23a120(0x1f9)+_0x3e7cca+_0x23a120(0x1c7)+_0x4a2986[_0x23a120(0x299)]+_0x23a120(0x1bf)+_0x4a2986[_0x23a120(0x217)]+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</button>');}_0x334fd8[_0x23a120(0x254)](_0x4df95c[_0x23a120(0x289)]);}),_0x334fd8['join']('');}function _0x40373f(){const _0x26712a=_0x40d192;let _0x5ab776=document[_0x26712a(0x279)](_0x26712a(0x23e));return!_0x5ab776&&(_0x5ab776=document[_0x26712a(0x28f)](_0x26712a(0x1c5)),_0x5ab776['id']=_0x4df95c['TSyav'],_0x5ab776[_0x26712a(0x2a2)]=_0x4df95c[_0x26712a(0x183)],_0x5ab776['hidden']=!![],_0x5ab776[_0x26712a(0x28e)](_0x4df95c['fVQov'],_0x26712a(0x271)),_0x5ab776['setAttribute'](_0x26712a(0x264),_0x4df95c['SjYav']),document[_0x26712a(0x202)][_0x26712a(0x1fe)](_0x5ab776),document[_0x26712a(0x18e)](_0x26712a(0x19a),()=>_0x42d2f3()),document['addEventListener'](_0x4df95c[_0x26712a(0x22f)],()=>_0x42d2f3(),!![]),document[_0x26712a(0x18e)](_0x4df95c[_0x26712a(0x18b)],_0x1bb76e=>{const _0x53f3be=_0x26712a;if(_0x4df95c[_0x53f3be(0x2a0)](_0x1bb76e[_0x53f3be(0x18a)],_0x53f3be(0x24a)))_0x4df95c[_0x53f3be(0x275)](_0x42d2f3);}),_0x5ab776['addEventListener'](_0x4df95c['Dmqmv'],_0x48212c),_0x5ab776[_0x26712a(0x18e)](_0x4df95c[_0x26712a(0x296)],_0x38bcc3=>_0x38bcc3[_0x26712a(0x1d1)]()),_0x5ab776[_0x26712a(0x18e)](_0x26712a(0x19a),_0x252a6f)),_0x5ab776['innerHTML']=_0x4df95c[_0x26712a(0x1d7)](_0x501e54,_0x531531),_0x5ab776;}function _0x42d2f3(){const _0x14f0fb=_0x40d192,_0x350f40=document['getElementById'](_0x14f0fb(0x23e));if(_0x350f40)_0x350f40[_0x14f0fb(0x1c0)]=!![];_0x1a056e&&(_0x1a056e[_0x14f0fb(0x28e)](_0x4df95c[_0x14f0fb(0x1cf)],_0x14f0fb(0x1ac)),_0x1a056e=null);}function _0x4e9823(_0x129f42,_0x739847,_0x54b9cf,_0x860cea,_0x13fd3b){const _0x3ae3d4=_0x40d192;_0x531531=_0x13fd3b?.['length']?_0x13fd3b:_0xe8c033,_0x3bfec9=_0x860cea,_0x1a056e=_0x4df95c[_0x3ae3d4(0x1c9)](_0x129f42,null);if(_0x1a056e)_0x1a056e[_0x3ae3d4(0x28e)](_0x4df95c[_0x3ae3d4(0x1cf)],_0x4df95c[_0x3ae3d4(0x232)]);const _0x334b0d=_0x40373f();_0x334b0d[_0x3ae3d4(0x1c0)]=![],_0x334b0d['style'][_0x3ae3d4(0x25e)]=_0x739847+'px',_0x334b0d[_0x3ae3d4(0x248)][_0x3ae3d4(0x1fa)]=_0x54b9cf+'px';const _0x11b9c5=_0x334b0d['getBoundingClientRect']();_0x4df95c[_0x3ae3d4(0x283)](_0x11b9c5['right'],window[_0x3ae3d4(0x1db)])&&(_0x334b0d[_0x3ae3d4(0x248)][_0x3ae3d4(0x25e)]=Math[_0x3ae3d4(0x2a1)](0x0,_0x739847-_0x11b9c5[_0x3ae3d4(0x1c8)])+'px'),_0x11b9c5[_0x3ae3d4(0x244)]>window[_0x3ae3d4(0x1de)]&&(_0x334b0d[_0x3ae3d4(0x248)][_0x3ae3d4(0x1fa)]=Math[_0x3ae3d4(0x2a1)](0x0,_0x4df95c[_0x3ae3d4(0x1f4)](_0x54b9cf,_0x11b9c5[_0x3ae3d4(0x211)]))+'px'),_0x3e7d6d(0x0);}function _0x558e18(_0x3e7a4e,_0x33e4a3,_0x1a9282,_0x4e0e0d){const _0x47212b=_0x40d192;_0x4df95c[_0x47212b(0x1a6)](_0x4e9823,null,_0x3e7a4e,_0x33e4a3,_0x1a9282,_0x4e0e0d);}function _0x1c580a(_0x1e1d77){const _0x14233b=_0x40d192,_0x2feab7=document[_0x14233b(0x28f)](_0x4df95c[_0x14233b(0x1c4)]);return _0x2feab7[_0x14233b(0x1e4)]=_0x1e1d77,_0x2feab7[_0x14233b(0x225)];}function _0x22d3e8(_0x531721,_0x42923b){return _0x531721+'=\x22'+_0x42923b+'\x22';}function _0x55866f(_0x41969f){const _0x529a71=_0x40d192;if(!_0x41969f||!/\bdata-sheets-value\s*=/[_0x529a71(0x265)](_0x41969f))return _0x41969f;const _0x3d1c82=_0x242526=>_0x242526[_0x529a71(0x1be)](/&quot;/g,'\x22')[_0x529a71(0x1be)](/&amp;/g,'&'),_0xe1793d=(_0x1288ed,_0xe53d92)=>_0xe53d92[_0x529a71(0x1be)](new RegExp('\x5cb'+_0x1288ed+_0x529a71(0x22e),'gi'),(_0x5ca802,_0x4446dc)=>_0x22d3e8(_0x1288ed,_0x3d1c82(_0x4446dc)))[_0x529a71(0x1be)](new RegExp('\x5cb'+_0x1288ed+'\x5cs*=\x5cs*\x22((?:&quot;|&amp;|[^\x22]*)*)\x22','gi'),(_0x56aecf,_0x28bb2b)=>{const _0x5cc01e=_0x529a71;if(!_0x28bb2b['includes'](_0x5cc01e(0x210))&&!_0x28bb2b[_0x5cc01e(0x1df)](_0x5cc01e(0x298)))return _0x56aecf;return _0x22d3e8(_0x1288ed,_0x4df95c[_0x5cc01e(0x20a)](_0x3d1c82,_0x28bb2b));});let _0x52b25c=_0xe1793d(_0x4df95c[_0x529a71(0x269)],_0x41969f);return _0x52b25c=_0xe1793d(_0x529a71(0x192),_0x52b25c),_0x52b25c;}function _0x2d44fb(_0x5ced44){const _0x2b078b=_0x40d192,_0x11f075=_0x2b078b(0x208);let _0xf8dcb4=_0x5ced44['trim']();return!/\bdata-sheets-root\s*=/[_0x2b078b(0x265)](_0xf8dcb4)&&(_0xf8dcb4=_0xf8dcb4[_0x2b078b(0x1be)](/<table\b/i,_0x4df95c[_0x2b078b(0x222)])),'<google-sheets-html-origin><meta\x20name=\x22generator\x22\x20content=\x22Sheets\x22/>'+_0x11f075+_0xf8dcb4+_0x2b078b(0x1a3);}function _0x35df20(_0x37c411){const _0x386679=_0x40d192;let _0x935b0c=_0x37c411;const _0x471f97=_0x37c411[_0x386679(0x193)](/<!--StartFragment-->([\s\S]*?)<!--EndFragment-->/i);if(_0x471f97)_0x935b0c=_0x471f97[0x1];else{const _0x4eb167=_0x37c411[_0x386679(0x193)](/<body[^>]*>([\s\S]*?)<\/body>/i);if(_0x4eb167)_0x935b0c=_0x4eb167[0x1];}const _0x1d9ef0=_0x935b0c[_0x386679(0x193)](/<table[\s\S]*?<\/table>/i);return _0x4df95c[_0x386679(0x1d7)](_0x2d44fb,_0x1d9ef0?_0x1d9ef0[0x0]:_0x935b0c[_0x386679(0x229)]());}function _0x554a82(_0xdea18c){const _0x74a0fd=_0x40d192,_0x5ced30={'HZlae':_0x4df95c[_0x74a0fd(0x1e9)],'HxCSk':'data-eqn-formula','BfUfv':_0x4df95c[_0x74a0fd(0x1c6)]};if(!_0xdea18c)return _0xdea18c;if(/\bdata-sheets-formula\s*=/[_0x74a0fd(0x265)](_0xdea18c))return _0x4df95c[_0x74a0fd(0x215)](_0x35df20,_0x55866f(_0xdea18c));const _0x330e53=new DOMParser()[_0x74a0fd(0x1fb)](_0xdea18c,_0x74a0fd(0x23f)),_0x27e0c6=_0x330e53[_0x74a0fd(0x28d)](_0x4df95c[_0x74a0fd(0x184)]);if(!_0x27e0c6)return _0xdea18c;_0x27e0c6[_0x74a0fd(0x284)](_0x4df95c[_0x74a0fd(0x216)])['forEach'](_0x5170b7=>{const _0x42a43d=_0x74a0fd;let _0x16bd42=_0x5170b7[_0x42a43d(0x1cb)](_0x5ced30[_0x42a43d(0x1f1)])||_0x5170b7[_0x42a43d(0x1cb)](_0x5ced30['HxCSk']);if(!_0x16bd42){const _0x2ddda8=_0x5170b7[_0x42a43d(0x21d)][_0x42a43d(0x229)]();if(_0x2ddda8['startsWith']('='))_0x16bd42=_0x2ddda8;}if(!_0x16bd42)return;_0x16bd42=_0x1c580a(_0x16bd42[_0x42a43d(0x229)]());if(!_0x16bd42[_0x42a43d(0x21e)]('='))_0x16bd42='='+_0x16bd42;_0x5170b7['textContent']=_0x16bd42,_0x5170b7['removeAttribute'](_0x5ced30[_0x42a43d(0x1f1)]),_0x5170b7[_0x42a43d(0x26a)](_0x5ced30[_0x42a43d(0x1dc)]),_0x5170b7[_0x42a43d(0x26a)](_0x42a43d(0x190)),_0x5170b7[_0x42a43d(0x26a)](_0x5ced30['BfUfv']);});const _0x4e5f1e=_0xdea18c[_0x74a0fd(0x193)](/<style[^>]*>[\s\S]*?<\/style>/gi),_0x28d413=_0x4e5f1e?_0x4e5f1e[_0x74a0fd(0x21a)]('\x0a'):'';return _0x74a0fd(0x1bd)+_0x28d413+_0x27e0c6['outerHTML']+'<!--EndFragment--></body></html>';}function _0x3cc93d(_0x1b7e06){const _0x355290=_0x40d192,_0x48f947=new DOMParser(),_0x5e7c69=_0x48f947[_0x355290(0x1fb)](_0x1b7e06,_0x4df95c[_0x355290(0x212)]),_0x4b6478=_0x5e7c69[_0x355290(0x284)]('table\x20tr');if(!_0x4b6478[_0x355290(0x199)])return'';return Array[_0x355290(0x1e7)](_0x4b6478,_0x417aaa=>Array['from'](_0x417aaa[_0x355290(0x284)](_0x355290(0x1b5)),_0x2c818f=>_0x2c818f[_0x355290(0x21d)][_0x355290(0x229)]())['join']('\x09'))[_0x355290(0x21a)]('\x0d\x0a');}function _0x3c4ade(_0x232d14,_0x133fa6,_0x1c2496={}){const _0x4bbbed=_0x40d192,_0x45cad9={'TRKgM':_0x4df95c[_0x4bbbed(0x212)],'GBscQ':_0x4df95c['ubxGu'],'TKoBk':function(_0x37b04a){return _0x37b04a();},'tRTQb':_0x4bbbed(0x204),'iuMgx':'div'};return new Promise((_0x49f710,_0x512cd4)=>{const _0x1dfbb1=_0x4bbbed,_0x57110f=_0x224cc1=>{const _0x1dea2b=a0_0x22ae;_0x224cc1[_0x1dea2b(0x1d1)](),_0x224cc1[_0x1dea2b(0x26f)][_0x1dea2b(0x1b8)](_0x45cad9[_0x1dea2b(0x246)],_0x232d14),_0x224cc1[_0x1dea2b(0x26f)]['setData']('text/plain',_0x133fa6);};document['addEventListener'](_0x1dfbb1(0x1b3),_0x57110f,{'once':!![]});if(_0x1c2496[_0x1dfbb1(0x207)]){try{if(document[_0x1dfbb1(0x219)](_0x45cad9[_0x1dfbb1(0x260)]))_0x45cad9[_0x1dfbb1(0x281)](_0x49f710);else _0x512cd4(new Error(_0x45cad9[_0x1dfbb1(0x268)]));}catch(_0x30e5ab){_0x512cd4(_0x30e5ab);}return;}const _0x578eb8=document[_0x1dfbb1(0x28f)](_0x45cad9[_0x1dfbb1(0x1c2)]);_0x578eb8['contentEditable']='true',_0x578eb8[_0x1dfbb1(0x248)][_0x1dfbb1(0x1b1)]=_0x1dfbb1(0x270),_0x578eb8[_0x1dfbb1(0x1e4)]=_0x232d14,document['body']['appendChild'](_0x578eb8);const _0x31834e=document['createRange']();_0x31834e['selectNodeContents'](_0x578eb8);const _0xf37160=window[_0x1dfbb1(0x1d2)]();_0xf37160[_0x1dfbb1(0x24b)](),_0xf37160[_0x1dfbb1(0x1d9)](_0x31834e);try{if(document['execCommand'](_0x1dfbb1(0x1b3)))_0x49f710();else _0x512cd4(new Error(_0x1dfbb1(0x204)));}catch(_0x2bd43e){_0x512cd4(_0x2bd43e);}finally{document[_0x1dfbb1(0x202)][_0x1dfbb1(0x1ba)](_0x578eb8),_0xf37160[_0x1dfbb1(0x24b)]();}});}async function _0x1e449e(_0x315273,_0x2516a8){const _0x34ec02=_0x40d192;if(_0x4df95c[_0x34ec02(0x218)](_0x315273,_0x34ec02(0x1bc))||_0x315273===_0x34ec02(0x261)){const _0x49bc37=_0x4df95c[_0x34ec02(0x1d7)](_0x3cc93d,_0x2516a8),_0x2c5a51=_0x315273===_0x4df95c['PuAOE']?_0x4df95c[_0x34ec02(0x215)](_0x55866f,_0x2516a8):_0x2516a8;if(_0x4df95c[_0x34ec02(0x218)](_0x315273,_0x4df95c[_0x34ec02(0x285)]))try{await navigator[_0x34ec02(0x251)][_0x34ec02(0x28a)]([new ClipboardItem({'text/html':new Blob([_0x2c5a51],{'type':_0x4df95c[_0x34ec02(0x212)]}),'text/plain':new Blob([_0x49bc37],{'type':_0x34ec02(0x1e3)})})]);return;}catch{}try{await _0x4df95c[_0x34ec02(0x233)](_0x3c4ade,_0x2c5a51,_0x49bc37,{'skipDomSeed':_0x4df95c[_0x34ec02(0x218)](_0x315273,_0x34ec02(0x261))});return;}catch{}try{await navigator[_0x34ec02(0x251)][_0x34ec02(0x28a)]([new ClipboardItem({'text/html':new Blob([_0x2c5a51],{'type':_0x34ec02(0x23f)}),'text/plain':new Blob([_0x49bc37],{'type':'text/plain'})})]);return;}catch{}}await navigator[_0x34ec02(0x251)][_0x34ec02(0x1fc)](_0x2516a8);}function _0x439264(_0x2303dc){const _0x35b827=_0x40d192,_0x2a87a3=_0x2303dc[_0x35b827(0x229)]();if(!_0x2a87a3)return _0x2a87a3;if(_0x2a87a3[_0x35b827(0x21e)]('\x5c(')&&_0x2a87a3[_0x35b827(0x20e)]('\x5c)'))return _0x2a87a3;return'\x5c('+_0x2a87a3+'\x5c)';}async function _0x252a6f(_0x18078f){const _0x4d197e=_0x40d192;_0x18078f[_0x4d197e(0x29d)]();const _0x53cd43=_0x18078f[_0x4d197e(0x266)]['closest'](_0x4d197e(0x1e1)),_0x4d7a38=_0x53cd43?.[_0x4d197e(0x1cb)]('data-type');if(!_0x4d7a38||!_0x3bfec9)return;const _0x2273df=_0x3bfec9[_0x4d7a38]??(_0x4df95c[_0x4d197e(0x218)](_0x4d7a38,_0x4d197e(0x261))?_0x3bfec9[_0x4d197e(0x1bc)]:undefined);if(!_0x2273df){_0x42d2f3();return;}let _0x31c46d=_0x4d7a38==='sheets'?_0x4df95c[_0x4d197e(0x29e)](_0x554a82,_0x2273df):_0x2273df;if(_0x4d7a38===_0x4d197e(0x1da))_0x31c46d=_0x4df95c[_0x4d197e(0x1c1)](_0x439264,_0x31c46d);try{await _0x4df95c[_0x4d197e(0x263)](_0x1e449e,_0x4d7a38,_0x31c46d);const _0xbac795=_0x3937cb[_0x4d7a38]?.[_0x4d197e(0x299)]||_0x4d7a38;_0x4df95c[_0x4d197e(0x1d4)](_0x48405d,_0x4d197e(0x196)+_0xbac795+'.');}catch{_0x48405d(_0x4df95c[_0x4d197e(0x1e5)]);}_0x4df95c[_0x4d197e(0x234)](_0x42d2f3);}function _0x1b3831(_0x4e393f){const _0x5794ab=_0x40d192;_0x4e393f['innerHTML']='',_0x4e393f[_0x5794ab(0x27a)][_0x5794ab(0x226)](_0x5794ab(0x1c3)),_0x4e393f['textContent']=_0x4df95c[_0x5794ab(0x185)];}function _0x50388b(_0x53bf27,_0x592f20){const _0x4c52d2=_0x40d192,_0x47d9ec={'HLocM':_0x4df95c[_0x4c52d2(0x19c)],'VfueJ':_0x4df95c[_0x4c52d2(0x267)],'dsmbV':function(_0x245762){const _0x853cda=_0x4c52d2;return _0x4df95c[_0x853cda(0x18c)](_0x245762);},'GDdlZ':function(_0x3b34b5,_0x20056a,_0x2ad903,_0x51d937,_0x1863b7,_0x17fdb7){const _0x10637a=_0x4c52d2;return _0x4df95c[_0x10637a(0x1a6)](_0x3b34b5,_0x20056a,_0x2ad903,_0x51d937,_0x1863b7,_0x17fdb7);},'CFnii':function(_0x596248,_0x330a55){return _0x596248===_0x330a55;}};_0x53bf27[_0x4c52d2(0x27a)][_0x4c52d2(0x1a2)](_0x4df95c['zAebj']);const {payload:_0x5877e4}=_0x592f20,_0x29ee09=_0x5877e4[_0x4c52d2(0x293)]||{},_0x178444=Array['isArray'](_0x5877e4[_0x4c52d2(0x23b)])?_0x5877e4[_0x4c52d2(0x23b)]:_0xe8c033,_0x287826=_0x5877e4['reference']||_0x592f20[_0x4c52d2(0x26d)]||'',_0x4d2382=_0x29ee09[_0x4c52d2(0x25f)]||'',_0x3b2801=_0x29ee09['text']||_0x592f20['formula']||'',_0x38f196=_0x287826?'Equation:\x20'+_0x3b2801+'.\x20'+_0x287826+_0x4c52d2(0x19b):_0x4c52d2(0x249)+_0x3b2801+_0x4c52d2(0x19b),_0x2f46d9=document[_0x4c52d2(0x28f)](_0x4df95c[_0x4c52d2(0x194)]);_0x2f46d9[_0x4c52d2(0x2a2)]=_0x4c52d2(0x26c),_0x2f46d9[_0x4c52d2(0x1bb)]=0x0,_0x2f46d9[_0x4c52d2(0x28e)](_0x4df95c['fVQov'],_0x4df95c[_0x4c52d2(0x25d)]),_0x2f46d9[_0x4c52d2(0x28e)](_0x4df95c[_0x4c52d2(0x186)],_0x4df95c['YPmVV']),_0x2f46d9['setAttribute'](_0x4c52d2(0x201),_0x4c52d2(0x1ac)),_0x2f46d9[_0x4c52d2(0x28e)](_0x4df95c[_0x4c52d2(0x28c)],_0x38f196),_0x2f46d9[_0x4c52d2(0x1e4)]=_0x4c52d2(0x239)+_0x47264d(_0x3b2801)+_0x4c52d2(0x1b7)+_0x4d2382+_0x4c52d2(0x1ea)+_0x354554(_0x178444)+'\x0a\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20<p\x20class=\x22ev-card-footer\x22>Powered\x20by\x20Equangular\x20tool\x20&amp;\x20exports</p>',_0x2f46d9[_0x4c52d2(0x28d)](_0x4df95c[_0x4c52d2(0x1cc)])[_0x4c52d2(0x21d)]=_0x287826;const _0xace719=_0xe70d4e=>{const _0x445d53=_0x4c52d2;if(_0xe70d4e[_0x445d53(0x266)]['closest'](_0x47d9ec[_0x445d53(0x1ca)]))return;_0xe70d4e[_0x445d53(0x29d)]();const _0x30ed5d=document[_0x445d53(0x279)](_0x47d9ec[_0x445d53(0x1f6)]);if(_0x30ed5d&&!_0x30ed5d['hidden']){_0x47d9ec['dsmbV'](_0x42d2f3);return;}_0x47d9ec[_0x445d53(0x22d)](_0x4e9823,_0x2f46d9,_0xe70d4e[_0x445d53(0x278)],_0xe70d4e[_0x445d53(0x1b9)],_0x29ee09,_0x178444);},_0x57ffd5=_0x397adb=>{const _0x4eb511=_0x4c52d2;if(_0x397adb[_0x4eb511(0x266)][_0x4eb511(0x295)]('.ev-card-footer'))return;_0x397adb[_0x4eb511(0x1d1)](),_0x397adb[_0x4eb511(0x29d)]();const _0x42d906=document[_0x4eb511(0x279)](_0x4df95c[_0x4eb511(0x267)]);if(_0x42d906&&!_0x42d906['hidden']){_0x4df95c['XbhKE'](_0x42d2f3);return;}const _0x49344e=_0x2f46d9[_0x4eb511(0x238)]();_0x4e9823(_0x2f46d9,_0x4df95c['aqBPz'](_0x49344e['left'],_0x49344e['width']/0x2),_0x4df95c[_0x4eb511(0x28b)](_0x49344e[_0x4eb511(0x244)],0x4),_0x29ee09,_0x178444);};_0x2f46d9[_0x4c52d2(0x18e)](_0x4c52d2(0x19a),_0xace719),_0x2f46d9['addEventListener'](_0x4df95c[_0x4c52d2(0x296)],_0x352c0e=>{const _0x2dae48=_0x4c52d2;if(_0x352c0e[_0x2dae48(0x266)]['closest'](_0x2dae48(0x256)))return;_0x352c0e[_0x2dae48(0x1d1)](),_0xace719(_0x352c0e);}),_0x2f46d9[_0x4c52d2(0x18e)]('keydown',_0x517483=>{const _0x348cef=_0x4c52d2;if(_0x517483[_0x348cef(0x18a)]===_0x348cef(0x245)||_0x47d9ec[_0x348cef(0x235)](_0x517483[_0x348cef(0x18a)],'\x20'))_0x57ffd5(_0x517483);}),_0x53bf27['innerHTML']='',_0x53bf27[_0x4c52d2(0x1fe)](_0x2f46d9),_0x5df3ba[_0x4c52d2(0x23d)](_0x53bf27,{'data':_0x592f20,'formats':_0x29ee09,'copyMenu':_0x178444});}function _0x47264d(_0x530899){const _0x525b45=_0x40d192;return String(_0x530899)[_0x525b45(0x1be)](/&/g,_0x525b45(0x298))[_0x525b45(0x1be)](/"/g,_0x525b45(0x210))['replace'](/</g,_0x4df95c['HWIcO']);}function _0xbfeaf8(_0x401b26){const _0x562d0d=_0x40d192,_0x3fad3f=_0x4df95c[_0x562d0d(0x273)](_0x394c2a,_0x401b26);if(!_0x3fad3f){_0x401b26['innerHTML']='',_0x401b26[_0x562d0d(0x27a)][_0x562d0d(0x1a2)](_0x562d0d(0x1c3)),_0x401b26['removeAttribute'](_0x562d0d(0x1ab));return;}const _0x37e430=_0x1b86f1(_0x401b26,_0x3fad3f['payload']);_0x4df95c[_0x562d0d(0x263)](_0x3a6db6,_0x401b26,_0x37e430);if(!_0x4df95c[_0x562d0d(0x1ed)](_0x28464d)){_0x1b3831(_0x401b26);return;}_0x4df95c['lkNWy'](_0x50388b,_0x401b26,_0x3fad3f);}function _0x15b880(_0x578a2d){const _0x226f1f=_0x40d192,_0x4c5185=_0x578a2d?[_0x578a2d]['flat']():Array[_0x226f1f(0x1e7)](document[_0x226f1f(0x284)]('div.equation_view'));for(const _0x50c1af of _0x4c5185){_0x5df3ba[_0x226f1f(0x209)](_0x50c1af),_0xbfeaf8(_0x50c1af);}}function _0x45bf8e(){const _0x2632d1=_0x40d192;if(document[_0x2632d1(0x28d)](_0x2632d1(0x20f)))return;const _0x31c88d=document[_0x2632d1(0x28f)](_0x4df95c['XopMB']);_0x31c88d[_0x2632d1(0x1a7)]=_0x4df95c['SUEto'],_0x31c88d[_0x2632d1(0x272)]=new URL('equation-view.css',_0x482c8b())[_0x2632d1(0x272)],_0x31c88d[_0x2632d1(0x28e)](_0x2632d1(0x25b),'1'),document[_0x2632d1(0x195)][_0x2632d1(0x1fe)](_0x31c88d);}function _0x541416(){const _0x4c4151=_0x40d192;_0x45bf8e(),_0x4df95c[_0x4c4151(0x21f)](_0x15b880);}_0x4df95c[_0x40d192(0x218)](document['readyState'],_0x40d192(0x1ff))?document[_0x40d192(0x18e)](_0x40d192(0x24f),_0x541416):_0x4df95c[_0x40d192(0x1d6)](_0x541416),window[_0x40d192(0x1eb)]={'refresh':_0x15b880};}()));
+(function () {
+  'use strict';
+
+  const DEFAULT_COPY_MENU = [
+    'text', 'tex', 'mathml', 'excel', 'sheets', 'python', 'csharp', 'javascript',
+  ];
+
+  const MENU_DEFS = {
+    text: { section: 'Notation', label: 'Text', badge: 'TXT' },
+    tex: { section: 'Notation', label: 'TeX', badge: 'TEX' },
+    mathml: { section: 'Notation', label: 'MathML', badge: 'MML' },
+    excel: { section: 'Spreadsheet', label: 'Excel formula', badge: 'XLS' },
+    sheets: { section: 'Spreadsheet', label: 'Google Sheets formula', badge: 'GS' },
+    python: { section: 'Code', label: 'Python function', badge: 'PY' },
+    csharp: { section: 'Code', label: 'C# function', badge: 'C#' },
+    javascript: { section: 'Code', label: 'JavaScript function', badge: 'JS' },
+  };
+
+  const HINT_ICON_PARTS = {
+    excel: '<svg class="ev-hint-icon" viewBox="0 0 24 24" aria-hidden="true" title="Excel"><rect width="24" height="24" rx="2.5" fill="#107C41"/><path fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" d="M8 8l8 8M16 8l-8 8"/></svg>',
+    sheets: '<svg class="ev-hint-icon" viewBox="0 0 24 24" aria-hidden="true" title="Google Sheets"><rect width="24" height="24" rx="2.5" fill="#0F9D58"/><path fill="#fff" d="M7 6h7l4 4v8H7V6zm7 0v4h4"/><path stroke="#fff" stroke-width="1.2" d="M9 11h6M9 14h6M9 17h4"/></svg>',
+    python: '<svg class="ev-hint-icon" viewBox="0 0 24 24" aria-hidden="true" title="Python"><path fill="#3776AB" d="M11.914 0C5.82 0 6.28 2.657 6.28 2.657l.007 2.754h5.814v.827H4.108S0 5.847 0 11.969c0 6.173 3.586 5.946 3.586 5.946h2.144V15.07s-.094-3.594 3.548-3.594h6.138s3.448.055 3.448-3.265V2.779S18.083 0 11.914 0zM8.785 1.87a1.034 1.034 0 1 1 0 2.068 1.034 1.034 0 0 1 0-2.068z"/><path fill="#FFD43B" d="M12.086 24c6.093 0 5.637-2.657 5.637-2.657l-.007-2.754h-5.814v-.827h8.993S24 18.153 24 12.031c0-6.173-3.586-5.946-3.586-5.946h-2.144v2.845s.094 3.594-3.548 3.594h-6.138s-3.448-.055-3.448 3.265v6.868S5.917 24 12.086 24zm3.129-1.87a1.034 1.034 0 1 1 0-2.068 1.034 1.034 0 0 1 0 2.068z"/></svg>',
+    csharp: '<svg class="ev-hint-icon" viewBox="0 0 24 24" aria-hidden="true" title="C#"><rect width="24" height="24" rx="2.5" fill="#68217A"/><text x="12" y="16.5" text-anchor="middle" fill="#fff" font-family="Segoe UI, sans-serif" font-size="10" font-weight="700">C#</text></svg>',
+    javascript: '<svg class="ev-hint-icon" viewBox="0 0 24 24" aria-hidden="true" title="JavaScript"><rect width="24" height="24" rx="2.5" fill="#F7DF1E"/><text x="12" y="16" text-anchor="middle" fill="#323330" font-family="Segoe UI, sans-serif" font-size="8.5" font-weight="700">JS</text></svg>',
+    text: '<svg class="ev-hint-icon" viewBox="0 0 24 24" aria-hidden="true" title="Text"><rect width="24" height="24" rx="2.5" fill="#E8E8E8"/><text x="12" y="16" text-anchor="middle" fill="#616161" font-family="Segoe UI, sans-serif" font-size="9" font-weight="600">Aa</text></svg>',
+    tex: '<svg class="ev-hint-icon" viewBox="0 0 24 24" aria-hidden="true" title="TeX"><rect width="24" height="24" rx="2.5" fill="#5D8090"/><text x="12" y="16.5" text-anchor="middle" fill="#fff" font-family="Georgia, serif" font-size="10" font-weight="700" font-style="italic">TeX</text></svg>',
+    mathml: '<svg class="ev-hint-icon" viewBox="0 0 24 24" aria-hidden="true" title="MathML"><rect width="24" height="24" rx="2.5" fill="#E65100"/><text x="12" y="15.5" text-anchor="middle" fill="#fff" font-family="Segoe UI, sans-serif" font-size="7.5" font-weight="700">MML</text></svg>',
+  };
+
+  let allowlistReady = false;
+  const instances = new Map();
+  let activeFormats = null;
+  let activeCopyMenu = DEFAULT_COPY_MENU;
+  let menuAnchorEl = null;
+
+  function ensureLiveRegion() {
+    let live = document.getElementById('ev-copy-status');
+    if (!live) {
+      live = document.createElement('div');
+      live.id = 'ev-copy-status';
+      live.className = 'ev-sr-only';
+      live.setAttribute('aria-live', 'polite');
+      live.setAttribute('aria-atomic', 'true');
+      document.body.appendChild(live);
+    }
+    return live;
+  }
+
+  function announceCopy(message) {
+    const live = ensureLiveRegion();
+    live.textContent = '';
+    window.requestAnimationFrame(() => {
+      live.textContent = message;
+    });
+  }
+
+  function getMenuItems() {
+    const menu = document.getElementById('ev-global-menu');
+    if (!menu || menu.hidden) return [];
+    return Array.from(menu.querySelectorAll('.ev-menu-item'));
+  }
+
+  function focusMenuItem(index) {
+    const items = getMenuItems();
+    if (!items.length) return;
+    const i = Math.max(0, Math.min(index, items.length - 1));
+    items[i].focus();
+  }
+
+  function onMenuKeydown(e) {
+    const menu = document.getElementById('ev-global-menu');
+    if (!menu || menu.hidden) return;
+
+    const items = getMenuItems();
+    if (!items.length) return;
+
+    const current = items.indexOf(document.activeElement);
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      focusMenuItem(current < 0 ? 0 : current + 1);
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      focusMenuItem(current < 0 ? items.length - 1 : current - 1);
+    } else if (e.key === 'Home') {
+      e.preventDefault();
+      focusMenuItem(0);
+    } else if (e.key === 'End') {
+      e.preventDefault();
+      focusMenuItem(items.length - 1);
+    } else if (e.key === 'Tab') {
+      hideMenu();
+    }
+  }
+
+  function getAllowedDomains() {
+    const list = window.__EQN_ALLOWED_DOMAINS__;
+    return Array.isArray(list) ? list : [];
+  }
+
+  function primeAllowlist() {
+    if (allowlistReady) return true;
+    allowlistReady = getAllowedDomains().length > 0;
+    return allowlistReady;
+  }
+
+  function isDomainAllowed() {
+    if (!primeAllowlist()) return false;
+    const host = window.location.host.toLowerCase();
+    return getAllowedDomains().some((domain) => domain === host);
+  }
+
+  function scriptBaseUrl() {
+    const embedBase = window.__EQN_EMBED_BASE__;
+    if (embedBase) return new URL(embedBase);
+    const current = document.currentScript;
+    if (current?.src) {
+      return new URL('.', current.src);
+    }
+    const scripts = document.querySelectorAll('script[src*="eqn.view.js"]');
+    const last = scripts[scripts.length - 1];
+    return last?.src ? new URL('.', last.src) : new URL('./embed/', window.location.href);
+  }
+
+  function resolveCardStyle(el, payload) {
+    const fromPayload = payload?.style;
+    const fromAttr = el.getAttribute('data-style');
+    const raw = fromPayload || fromAttr || 'classic';
+    return raw === 'pop' || raw === 'dark' ? raw : 'classic';
+  }
+
+  function applyCardStyle(el, style) {
+    if (style === 'classic') el.removeAttribute('data-style');
+    else el.setAttribute('data-style', style);
+  }
+
+  function parseEmbedDiv(el) {
+    const raw = (el.textContent || '').trim();
+    const lines = raw.split(/\r?\n/);
+    if (!lines.length) return null;
+
+    let start = 0;
+    if (/^id_key=/i.test(lines[0].trim())) start = 1;
+
+    const body = lines.slice(start).join('\n').trim();
+    if (!body) return null;
+
+    try {
+      const parse = window.__EQN_PAYLOAD_CODEC__?.parseEmbedBody;
+      const payload = parse ? parse(body) : JSON.parse(body);
+      return {
+        payload,
+        reference: el.getAttribute('name') || payload.reference || '',
+        formula: el.getAttribute('formula') || payload.equation || '',
+      };
+    } catch {
+      return null;
+    }
+  }
+
+  function buildHintIcons(copyMenu) {
+    const icons = copyMenu
+      .filter((type) => HINT_ICON_PARTS[type])
+      .map((type) => HINT_ICON_PARTS[type])
+      .join('');
+    return `<span class="ev-hint-icons" role="img" aria-label="Copy formats">${icons}</span>`;
+  }
+
+  function buildMenuHtml(copyMenu) {
+    const sections = new Map();
+    for (const type of copyMenu) {
+      const def = MENU_DEFS[type];
+      if (!def) continue;
+      if (!sections.has(def.section)) sections.set(def.section, []);
+      sections.get(def.section).push(type);
+    }
+
+    const sectionOrder = ['Notation', 'Spreadsheet', 'Code'];
+    const parts = [];
+
+    sectionOrder.forEach((sectionName, idx) => {
+      const types = sections.get(sectionName);
+      if (!types?.length) return;
+      if (parts.length) parts.push('<div class="ev-menu-divider"></div>');
+      parts.push(`<div class="ev-menu-section"><div class="ev-menu-label">${sectionName}</div>`);
+      for (const type of types) {
+        const def = MENU_DEFS[type];
+        parts.push(`
+        <button type="button" class="ev-menu-item" data-type="${type}" role="menuitem">
+          <span class="ev-menu-item-label">${def.label}</span>
+          <span class="ev-menu-item-badge">${def.badge}</span>
+        </button>`);
+      }
+      parts.push('</div>');
+    });
+
+    return parts.join('');
+  }
+
+  function ensureMenu() {
+    let menu = document.getElementById('ev-global-menu');
+    if (!menu) {
+      menu = document.createElement('div');
+      menu.id = 'ev-global-menu';
+      menu.className = 'ev-menu';
+      menu.hidden = true;
+      menu.setAttribute('role', 'menu');
+      menu.setAttribute('aria-label', 'Copy equation as');
+      document.body.appendChild(menu);
+
+      document.addEventListener('click', () => hideMenu());
+      document.addEventListener('scroll', () => hideMenu(), true);
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') hideMenu();
+      });
+      menu.addEventListener('keydown', onMenuKeydown);
+      menu.addEventListener('contextmenu', (e) => e.preventDefault());
+      menu.addEventListener('click', onMenuClick);
+    }
+    menu.innerHTML = buildMenuHtml(activeCopyMenu);
+    return menu;
+  }
+
+  function hideMenu() {
+    const menu = document.getElementById('ev-global-menu');
+    if (menu) menu.hidden = true;
+    if (menuAnchorEl) {
+      menuAnchorEl.setAttribute('aria-expanded', 'false');
+      menuAnchorEl = null;
+    }
+  }
+
+  function showMenuAtAnchor(anchorEl, clientX, clientY, formats, copyMenu) {
+    activeCopyMenu = copyMenu?.length ? copyMenu : DEFAULT_COPY_MENU;
+    activeFormats = formats;
+    menuAnchorEl = anchorEl || null;
+    if (menuAnchorEl) menuAnchorEl.setAttribute('aria-expanded', 'true');
+
+    const menu = ensureMenu();
+    menu.hidden = false;
+    menu.style.left = clientX + 'px';
+    menu.style.top = clientY + 'px';
+
+    const rect = menu.getBoundingClientRect();
+    if (rect.right > window.innerWidth) {
+      menu.style.left = Math.max(0, clientX - rect.width) + 'px';
+    }
+    if (rect.bottom > window.innerHeight) {
+      menu.style.top = Math.max(0, clientY - rect.height) + 'px';
+    }
+
+    focusMenuItem(0);
+  }
+
+  function showMenu(clientX, clientY, formats, copyMenu) {
+    showMenuAtAnchor(null, clientX, clientY, formats, copyMenu);
+  }
+
+  function decodeHtmlEntities(value) {
+    const node = document.createElement('textarea');
+    node.innerHTML = value;
+    return node.value;
+  }
+
+  function sheetsNativeAttr(name, rawValue) {
+    return `${name}="${rawValue}"`;
+  }
+
+  function repairSheetsClipboardHtml(html) {
+    if (!html || !/\bdata-sheets-value\s*=/.test(html)) return html;
+
+    const decode = (encoded) => encoded.replace(/&quot;/g, '"').replace(/&amp;/g, '&');
+
+    const fixAttr = (name, htmlIn) => htmlIn
+      .replace(
+        new RegExp(`\\b${name}\\s*=\\s*'((?:\\\\'|[^'])*)'`, 'gi'),
+        (_match, encoded) => sheetsNativeAttr(name, decode(encoded)),
+      )
+      .replace(
+        new RegExp(`\\b${name}\\s*=\\s*"((?:&quot;|&amp;|[^"]*)*)"`, 'gi'),
+        (_match, encoded) => {
+          if (!encoded.includes('&quot;') && !encoded.includes('&amp;')) return _match;
+          return sheetsNativeAttr(name, decode(encoded));
+        },
+      );
+
+    let out = fixAttr('data-sheets-value', html);
+    out = fixAttr('data-sheets-formula', out);
+    return out;
+  }
+
+  function wrapSheetsClipboardHtml(tableHtml) {
+    const style = '<style type="text/css">td{border:1px solid #ccc;}br{mso-data-placement:same-cell;}</style>';
+    let table = tableHtml.trim();
+    if (!/\bdata-sheets-root\s*=/.test(table)) {
+      table = table.replace(
+        /<table\b/i,
+        '<table xmlns="http://www.w3.org/1999/xhtml" data-sheets-root="1" data-sheets-baot="1"',
+      );
+    }
+    return `<google-sheets-html-origin><meta name="generator" content="Sheets"/>${style}${table}</google-sheets-html-origin>`;
+  }
+
+  function extractSheetsClipboardFragment(htmlDocument) {
+    let body = htmlDocument;
+    const frag = htmlDocument.match(/<!--StartFragment-->([\s\S]*?)<!--EndFragment-->/i);
+    if (frag) body = frag[1];
+    else {
+      const bodyMatch = htmlDocument.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
+      if (bodyMatch) body = bodyMatch[1];
+    }
+    const tableMatch = body.match(/<table[\s\S]*?<\/table>/i);
+    return wrapSheetsClipboardHtml(tableMatch ? tableMatch[0] : body.trim());
+  }
+
+  function ensureSheetsClipboardHtml(html) {
+    if (!html) return html;
+
+    if (/\bdata-sheets-formula\s*=/.test(html)) {
+      return extractSheetsClipboardFragment(repairSheetsClipboardHtml(html));
+    }
+
+    const doc = new DOMParser().parseFromString(html, 'text/html');
+    const table = doc.querySelector('table');
+    if (!table) return html;
+
+    table.querySelectorAll('td, th').forEach((cell) => {
+      let formula =
+        cell.getAttribute('x:fmla') ||
+        cell.getAttribute('data-eqn-formula');
+      if (!formula) {
+        const text = cell.textContent.trim();
+        if (text.startsWith('=')) formula = text;
+      }
+      if (!formula) return;
+
+      formula = decodeHtmlEntities(formula.trim());
+      if (!formula.startsWith('=')) formula = `=${formula}`;
+
+      cell.textContent = formula;
+      cell.removeAttribute('x:fmla');
+      cell.removeAttribute('data-eqn-formula');
+      cell.removeAttribute('x:num');
+      cell.removeAttribute('x:str');
+    });
+
+    const styles = html.match(/<style[^>]*>[\s\S]*?<\/style>/gi);
+    const styleBlock = styles ? styles.join('\n') : '';
+    return `<html><head><meta charset="utf-8"></head><body><!--StartFragment--><meta name="generator" content="Sheets"/>${styleBlock}${table.outerHTML}<!--EndFragment--></body></html>`;
+  }
+
+  function htmlTableToPlainText(htmlDoc) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(htmlDoc, 'text/html');
+    const rows = doc.querySelectorAll('table tr');
+    if (!rows.length) return '';
+
+    return Array.from(rows, (row) =>
+      Array.from(row.querySelectorAll('th, td'), (cell) => cell.textContent.trim()).join('\t')
+    ).join('\r\n');
+  }
+
+  function copyViaClipboardEvent(html, plain, options = {}) {
+    return new Promise((resolve, reject) => {
+      const onCopy = (event) => {
+        event.preventDefault();
+        event.clipboardData.setData('text/html', html);
+        event.clipboardData.setData('text/plain', plain);
+      };
+
+      document.addEventListener('copy', onCopy, { once: true });
+
+      if (options.skipDomSeed) {
+        try {
+          if (document.execCommand('copy')) resolve();
+          else reject(new Error('execCommand copy failed'));
+        } catch (error) {
+          reject(error);
+        }
+        return;
+      }
+
+      const node = document.createElement('div');
+      node.contentEditable = 'true';
+      node.style.cssText = 'position:fixed;left:-9999px;top:0;opacity:0';
+      node.innerHTML = html;
+      document.body.appendChild(node);
+
+      const range = document.createRange();
+      range.selectNodeContents(node);
+      const selection = window.getSelection();
+      selection.removeAllRanges();
+      selection.addRange(range);
+
+      try {
+        if (document.execCommand('copy')) resolve();
+        else reject(new Error('execCommand copy failed'));
+      } catch (error) {
+        reject(error);
+      } finally {
+        document.body.removeChild(node);
+        selection.removeAllRanges();
+      }
+    });
+  }
+
+  async function copyFormat(type, output) {
+    if (type === 'excel' || type === 'sheets') {
+      const plain = htmlTableToPlainText(output);
+      const html = type === 'sheets' ? repairSheetsClipboardHtml(output) : output;
+
+      if (type === 'sheets') {
+        try {
+          await navigator.clipboard.write([
+            new ClipboardItem({
+              'text/html': new Blob([html], { type: 'text/html' }),
+              'text/plain': new Blob([plain], { type: 'text/plain' }),
+            }),
+          ]);
+          return;
+        } catch {
+          /* fall through */
+        }
+      }
+
+      try {
+        await copyViaClipboardEvent(html, plain, { skipDomSeed: type === 'sheets' });
+        return;
+      } catch {
+        /* fall through */
+      }
+      try {
+        await navigator.clipboard.write([
+          new ClipboardItem({
+            'text/html': new Blob([html], { type: 'text/html' }),
+            'text/plain': new Blob([plain], { type: 'text/plain' }),
+          }),
+        ]);
+        return;
+      } catch {
+        /* fall through */
+      }
+    }
+    await navigator.clipboard.writeText(output);
+  }
+
+  function ensureTexDelimiters(tex) {
+    const trimmed = tex.trim();
+    if (!trimmed) return trimmed;
+    if (trimmed.startsWith('\\(') && trimmed.endsWith('\\)')) return trimmed;
+    return `\\(${trimmed}\\)`;
+  }
+
+  async function onMenuClick(e) {
+    e.stopPropagation();
+    const item = e.target.closest('[data-type]');
+    const type = item?.getAttribute('data-type');
+    if (!type || !activeFormats) return;
+
+    const output =
+      activeFormats[type] ??
+      (type === 'sheets' ? activeFormats.excel : undefined);
+    if (!output) {
+      hideMenu();
+      return;
+    }
+
+    let clipboardOutput = type === 'sheets' ? ensureSheetsClipboardHtml(output) : output;
+    if (type === 'tex') clipboardOutput = ensureTexDelimiters(clipboardOutput);
+
+    try {
+      await copyFormat(type, clipboardOutput);
+      const label = MENU_DEFS[type]?.label || type;
+      announceCopy(`Copied as ${label}.`);
+    } catch {
+      announceCopy('Copy failed — clipboard unavailable.');
+    }
+    hideMenu();
+  }
+
+  function renderUnauthorized(el) {
+    el.innerHTML = '';
+    el.classList.add('equation_view--placeholder');
+    el.textContent = 'Equation embed unavailable on this domain.';
+  }
+
+  function renderCard(el, data) {
+    el.classList.remove('equation_view--placeholder');
+    const { payload } = data;
+    const formats = payload.formats || {};
+    const copyMenu = Array.isArray(payload.copyMenu) ? payload.copyMenu : DEFAULT_COPY_MENU;
+    const reference = payload.reference || data.reference || '';
+    const mathml = formats.mathml || '';
+    const plainEquation = formats.text || data.formula || '';
+
+    const cardLabel = reference
+      ? `Equation: ${plainEquation}. ${reference}. Activate to open copy menu.`
+      : `Equation: ${plainEquation}. Activate to open copy menu.`;
+
+    const wrapper = document.createElement('div');
+    wrapper.className = 'ev-card';
+    wrapper.tabIndex = 0;
+    wrapper.setAttribute('role', 'button');
+    wrapper.setAttribute('aria-haspopup', 'menu');
+    wrapper.setAttribute('aria-expanded', 'false');
+    wrapper.setAttribute('aria-label', cardLabel);
+    wrapper.innerHTML = `
+      <p class="ev-reference"></p>
+      <div class="ev-equation" role="img" aria-label="${escapeAttr(plainEquation)}">
+        <span aria-hidden="true">${mathml}</span>
+      </div>
+      <p class="ev-hint">
+        <span>Activate to copy</span>
+        ${buildHintIcons(copyMenu)}
+      </p>
+      <p class="ev-card-footer">Powered by Equangular tool &amp; exports</p>`;
+
+    wrapper.querySelector('.ev-reference').textContent = reference;
+
+    const openMenuFromPointer = (e) => {
+      if (e.target.closest('.ev-card-footer')) return;
+      e.stopPropagation();
+      const menu = document.getElementById('ev-global-menu');
+      if (menu && !menu.hidden) {
+        hideMenu();
+        return;
+      }
+      showMenuAtAnchor(wrapper, e.clientX, e.clientY, formats, copyMenu);
+    };
+
+    const openMenuFromKeyboard = (e) => {
+      if (e.target.closest('.ev-card-footer')) return;
+      e.preventDefault();
+      e.stopPropagation();
+      const menu = document.getElementById('ev-global-menu');
+      if (menu && !menu.hidden) {
+        hideMenu();
+        return;
+      }
+      const rect = wrapper.getBoundingClientRect();
+      showMenuAtAnchor(
+        wrapper,
+        rect.left + rect.width / 2,
+        rect.bottom + 4,
+        formats,
+        copyMenu,
+      );
+    };
+
+    wrapper.addEventListener('click', openMenuFromPointer);
+    wrapper.addEventListener('contextmenu', (e) => {
+      if (e.target.closest('.ev-card-footer')) return;
+      e.preventDefault();
+      openMenuFromPointer(e);
+    });
+    wrapper.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') openMenuFromKeyboard(e);
+    });
+
+    el.innerHTML = '';
+    el.appendChild(wrapper);
+    instances.set(el, { data, formats, copyMenu });
+  }
+
+  function escapeAttr(value) {
+    return String(value)
+      .replace(/&/g, '&amp;')
+      .replace(/"/g, '&quot;')
+      .replace(/</g, '&lt;');
+  }
+
+  function processElement(el) {
+    const parsed = parseEmbedDiv(el);
+    if (!parsed) {
+      el.innerHTML = '';
+      el.classList.remove('equation_view--placeholder');
+      el.removeAttribute('data-style');
+      return;
+    }
+
+    const cardStyle = resolveCardStyle(el, parsed.payload);
+    applyCardStyle(el, cardStyle);
+
+    if (!isDomainAllowed()) {
+      renderUnauthorized(el);
+      return;
+    }
+
+    renderCard(el, parsed);
+  }
+
+  function refresh(target) {
+    const elements = target
+      ? [target].flat()
+      : Array.from(document.querySelectorAll('div.equation_view'));
+
+    for (const el of elements) {
+      instances.delete(el);
+      processElement(el);
+    }
+  }
+
+  function injectStylesheet() {
+    if (document.querySelector('link[data-ev-styles]')) return;
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = new URL('equation-view.css', scriptBaseUrl()).href;
+    link.setAttribute('data-ev-styles', '1');
+    document.head.appendChild(link);
+  }
+
+  function init() {
+    injectStylesheet();
+    refresh();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+  window.EquationView = { refresh };
+})();
