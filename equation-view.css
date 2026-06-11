@@ -31,13 +31,18 @@
   font-family: Arial, sans-serif;
   font-size: 10pt;
   background: transparent;
+  width: auto;
+  table-layout: auto;
 }
 
+/* Base cell defaults — duplicated inline styles are stripped from embed payloads. */
 .ev-table-host .spreadsheet-preview-table td,
 .ev-table-host .spreadsheet-preview-table th {
   border: 1px solid #d0d0d0;
   padding: 6px 10px;
   background: transparent;
+  white-space: nowrap;
+  width: auto;
 }
 
 .ev-table-host .web-cell--formula {
@@ -132,7 +137,7 @@
 
 .equation_view[data-style="pop"] .ev-hint,
 .table_view[data-style="pop"] .ev-hint {
-  color: rgba(255, 255, 255, 0.95);
+  color: rgba(255, 255, 255, 0.92);
   border-top-color: rgba(255, 255, 255, 0.35);
 }
 
@@ -141,14 +146,9 @@
   padding-top: 0;
 }
 
-.table_view[data-style="pop"] .ev-hint {
-  color: var(--ev-menu-muted);
-}
-
 .equation_view[data-style="pop"] .ev-card-footer,
 .table_view[data-style="pop"] .ev-card-footer {
-  background: #2a223d;
-  color: #ddd6e8;
+  color: rgba(255, 255, 255, 0.92);
 }
 
 /* Dark - dark panel, light text */
@@ -180,25 +180,19 @@
 
 .equation_view[data-style="dark"] .ev-hint,
 .table_view[data-style="dark"] .ev-hint {
-  color: #d0d0d0;
+  color: #b8b8b8;
   border-top-color: #404040;
-}
-
-.table_view[data-style="dark"] .ev-hint {
-  color: var(--ev-menu-muted);
 }
 
 .equation_view[data-style="dark"] .ev-card-footer,
 .table_view[data-style="dark"] .ev-card-footer {
-  background: #111;
-  color: #8a8a8a;
+  color: #b8b8b8;
 }
 
 .ev-card-footer {
-  margin: 24px -40px 0;
+  margin: 24px 0 0;
   padding: 4px 16px;
-  background: #506e50;
-  color: #eef2ee;
+  color: var(--ev-menu-muted);
   font-size: 10px;
   line-height: 1.4;
   text-align: center;
@@ -207,10 +201,13 @@
 
 .ev-reference {
   margin: 0 0 8px;
-  font-size: 14px;
+  font-size: 16px;
   color: var(--ev-menu-muted);
   font-style: italic;
   text-align: center;
+  max-width: 20rem;
+  margin: auto;
+
 }
 
 .ev-equation {
