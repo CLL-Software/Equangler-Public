@@ -12,7 +12,7 @@
     enumerable: false,
   });
 
-  var parts = ['eqn.cfg.js', 'eqn.core.js', 'eqn.view.js'];
+  var parts = ['eqn.cfg.js', 'eqn.core.js', 'eqn.codegen.js', 'eqn.view.js'];
 
   function load(i) {
     if (i >= parts.length) {

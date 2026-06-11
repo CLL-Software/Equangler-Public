@@ -9,7 +9,8 @@
   --ev-menu-accent-soft: #ebf3fc;
 }
 
-.equation_view--placeholder {
+.equation_view--placeholder,
+.table_view--placeholder {
   display: inline-block;
   padding: 24px 32px;
   border-radius: 10px;
@@ -18,6 +19,43 @@
   font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
   font-size: 14px;
   border: 1px dashed #ccc;
+}
+
+.ev-table-host {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+.ev-table-host .spreadsheet-preview-table {
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  font-size: 10pt;
+  background: transparent;
+}
+
+.ev-table-host .spreadsheet-preview-table td,
+.ev-table-host .spreadsheet-preview-table th {
+  border: 1px solid #d0d0d0;
+  padding: 6px 10px;
+  background: transparent;
+}
+
+.ev-table-host .web-cell--formula {
+  font-family: Consolas, "Courier New", monospace;
+  font-size: 0.85rem;
+  color: #1565c0;
+  background: #f8fbff;
+}
+
+.table_view[data-style="pop"] .ev-table-host .web-cell--formula {
+    color: #fff;
+}
+
+.ev-table-empty {
+    margin: 0;
+    color: var(--ev-menu-muted);
+    font-size: 13px;
+    text-align: center;
 }
 
 .ev-card {
@@ -30,6 +68,18 @@
   text-align: left;
   overflow: hidden;
   font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+/* Table embeds - flat layout; equation cards keep boxed styling above */
+.table_view .ev-card {
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
+  border: none;
+}
+
+.table_view .ev-card-footer {
+  margin: 24px 0 0;
 }
 
 .ev-card:focus {
@@ -53,12 +103,18 @@
   border: 0;
 }
 
-/* Pop — bold gradient, same layout/size as classic */
-.equation_view[data-style="pop"] .ev-card {
+/* Pop - bold gradient, same layout/size as classic */
+.equation_view[data-style="pop"] .ev-card,
+.table_view[data-style="pop"] .ev-card {
   background: linear-gradient(145deg, #1ee9c0 0%, #3586ff 45%, #ad47ff 100%);
   color: #ffffff;
   border: none;
   box-shadow: 0 4px 22px rgba(53, 134, 255, 0.4);
+}
+
+.table_view[data-style="pop"] .ev-card {
+  box-shadow: none;
+  color: inherit;
 }
 
 .equation_view[data-style="pop"] .ev-reference {
@@ -74,22 +130,40 @@
   color: inherit;
 }
 
-.equation_view[data-style="pop"] .ev-hint {
+.equation_view[data-style="pop"] .ev-hint,
+.table_view[data-style="pop"] .ev-hint {
   color: rgba(255, 255, 255, 0.95);
   border-top-color: rgba(255, 255, 255, 0.35);
 }
 
-.equation_view[data-style="pop"] .ev-card-footer {
+.table_view .ev-hint {
+  border-top: none;
+  padding-top: 0;
+}
+
+.table_view[data-style="pop"] .ev-hint {
+  color: var(--ev-menu-muted);
+}
+
+.equation_view[data-style="pop"] .ev-card-footer,
+.table_view[data-style="pop"] .ev-card-footer {
   background: #2a223d;
   color: #ddd6e8;
 }
 
-/* Dark — dark panel, light text */
-.equation_view[data-style="dark"] .ev-card {
+/* Dark - dark panel, light text */
+.equation_view[data-style="dark"] .ev-card,
+.table_view[data-style="dark"] .ev-card {
   background: #1c1c1c;
   color: #f3f3f3;
   border: 1px solid #333;
   box-shadow: 0 2px 14px rgba(0, 0, 0, 0.35);
+}
+
+.table_view[data-style="dark"] .ev-card {
+  box-shadow: none;
+  border: none;
+  color: #ffffff;
 }
 
 .equation_view[data-style="dark"] .ev-reference {
@@ -104,12 +178,18 @@
   color: inherit;
 }
 
-.equation_view[data-style="dark"] .ev-hint {
+.equation_view[data-style="dark"] .ev-hint,
+.table_view[data-style="dark"] .ev-hint {
   color: #d0d0d0;
   border-top-color: #404040;
 }
 
-.equation_view[data-style="dark"] .ev-card-footer {
+.table_view[data-style="dark"] .ev-hint {
+  color: var(--ev-menu-muted);
+}
+
+.equation_view[data-style="dark"] .ev-card-footer,
+.table_view[data-style="dark"] .ev-card-footer {
   background: #111;
   color: #8a8a8a;
 }
