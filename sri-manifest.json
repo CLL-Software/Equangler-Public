@@ -1,0 +1,16 @@
+{
+  "version": "2.6.6",
+  "tag": "V2.6.6",
+  "cdnBase": "https://cdn.jsdelivr.net/gh/CLL-Software/Equangler-Public",
+  "generatedAt": "2026-06-18T15:12:40.086Z",
+  "files": {
+    "eqn.js": {
+      "url": "https://cdn.jsdelivr.net/gh/CLL-Software/Equangler-Public@main/eqn.js",
+      "integrity": "sha384-CsKjFdNEycfJYcvGCahqoy29kHsldEFQNCYikt81O7CGQva6Gxea6JY+ao7I1C0T"
+    },
+    "eqn-secure.js": {
+      "url": "https://cdn.jsdelivr.net/gh/CLL-Software/Equangler-Public@V2.6.6/eqn-secure.js",
+      "integrity": "sha384-vWgyLCANxhODeUOvUb9prAvu4Ko+JXEFgFp/mCF/pLPNWDeSa3t+w5zgahaGD6i0"
+    }
+  }
+}
