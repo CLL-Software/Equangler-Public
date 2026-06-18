@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Equangular embed setup</title>
+  <style>
+    body { font-family: "Segoe UI", system-ui, sans-serif; line-height: 1.5; max-width: 52rem; margin: 2rem auto; padding: 0 1rem; color: #242424; }
+    h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.1rem; margin-top: 1.75rem; }
+    pre { background: #f5f5f5; padding: 0.75rem 1rem; overflow-x: auto; border-radius: 6px; font-size: 0.85rem; }
+    table { border-collapse: collapse; width: 100%; font-size: 0.9rem; margin-top: 0.5rem; }
+    th, td { border: 1px solid #ddd; padding: 0.5rem 0.65rem; text-align: left; vertical-align: top; }
+    th { background: #fafafa; }
+    .lede { color: #616161; }
+    .note { font-size: 0.9rem; color: #616161; margin-top: 0.75rem; }
+    code { font-size: 0.88em; }
+    a { color: #0f6cbd; }
+  </style>
+</head>
+<body>
+  <h1>Equangular embed setup</h1>
+  <p class="lede">Version <strong>2.6.7</strong> (V2.6.7). One script tag per page; equation/table divs from the builder.</p>
+
+  <h2>1. Latest release (@main)</h2>
+  <p>Tracks the newest build. URL stays the same across releases; content may change when main is updated.</p>
+  <pre>&lt;script src="https://cdn.jsdelivr.net/gh/CLL-Software/Equangler-Public@main/eqn.js"&gt;&lt;/script&gt;</pre>
+  <table>
+    <tr><th>Pros</th><th>Cons</th></tr>
+    <tr><td>Simplest snippet; always current fixes on main</td><td>No integrity hash; updates without a version bump</td></tr>
+  </table>
+
+  <h2>2. Version-pinned (recommended for production)</h2>
+  <p>Immutable <code>V2.6.7</code> release. Use Subresource Integrity so the browser rejects tampered files.</p>
+  <pre>&lt;script
+  src="https://cdn.jsdelivr.net/gh/CLL-Software/Equangler-Public@V2.6.7/eqn-secure.js"
+  integrity="sha384-vWgyLCANxhODeUOvUb9prAvu4Ko+JXEFgFp/mCF/pLPNWDeSa3t+w5zgahaGD6i0"
+  crossorigin="anonymous"&gt;&lt;/script&gt;</pre>
+  <table>
+    <tr><th>Pros</th><th>Cons</th></tr>
+    <tr><td>Fixed behaviour; SRI verification; obfuscated bundle</td><td>Must update tag + hash for each release</td></tr>
+  </table>
+
+  <h2>3. Self-hosted (download or build locally)</h2>
+  <p>Host <code>eqn.js</code> or <code>eqn-secure.js</code> on your own origin instead of jsDelivr.</p>
+
+  <p><strong>Download the latest build directly:</strong><br>
+  <a href="https://raw.githubusercontent.com/CLL-Software/Equangler-Public/refs/heads/main/eqn.js">https://raw.githubusercontent.com/CLL-Software/Equangler-Public/refs/heads/main/eqn.js</a></p>
+  <p class="note">This is a temporary download location and may be replaced with release-specific download links in the future. For production deployments, consider downloading a version-pinned release asset instead when available.</p>
+
+  <p>Or build from source (Equangular repo):</p>
+  <pre>node embed/build-production.js</pre>
+  <p>Then upload <code>embed/dist/eqn.js</code> or <code>embed/dist/eqn-secure.js</code> to your server.</p>
+
+  <pre>&lt;script src="/assets/eqn-secure.js"
+  integrity="sha384-vWgyLCANxhODeUOvUb9prAvu4Ko+JXEFgFp/mCF/pLPNWDeSa3t+w5zgahaGD6i0"
+  crossorigin="anonymous"&gt;&lt;/script&gt;</pre>
+  <table>
+    <tr><th>Pros</th><th>Cons</th></tr>
+    <tr><td>No third-party CDN dependency; full deployment control</td><td>You are responsible for updates and security patching</td></tr>
+  </table>
+
+  <h2>Integrity hashes (V2.6.7)</h2>
+  <pre>{
+  "version": "2.6.7",
+  "tag": "V2.6.7",
+  "cdnBase": "https://cdn.jsdelivr.net/gh/CLL-Software/Equangler-Public",
+  "generatedAt": "2026-06-18T15:12:40.086Z",
+  "files": {
+    "eqn.js": {
+      "url": "https://cdn.jsdelivr.net/gh/CLL-Software/Equangler-Public@main/eqn.js",
+      "integrity": "sha384-CsKjFdNEycfJYcvGCahqoy29kHsldEFQNCYikt81O7CGQva6Gxea6JY+ao7I1C0T"
+    },
+    "eqn-secure.js": {
+      "url": "https://cdn.jsdelivr.net/gh/CLL-Software/Equangler-Public@V2.6.7/eqn-secure.js",
+      "integrity": "sha384-vWgyLCANxhODeUOvUb9prAvu4Ko+JXEFgFp/mCF/pLPNWDeSa3t+w5zgahaGD6i0"
+    }
+  }
+}</pre>
+
+  <p class="lede">Regenerate after embed changes: <code>node embed/build-production.js</code> then tag <code>V2.6.7</code> on Equangler-Public.</p>
+</body>
+</html>

@@ -16,7 +16,7 @@
     enumerable: false,
   });
   Object.defineProperty(window, '__EQN_VERSION__', {
-    value: "2.6.7",
+    value: "2.6.6",
     writable: false,
     configurable: false,
     enumerable: false,
