@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-06-21T19:19:13.479Z",
+  "versions": [
+    {
+      "folder": "V2.6.6",
+      "label": "V2.6.6",
+      "isCurrent": true,
+      "createdAt": "2026-06-21T19:19:13.477Z"
+    },
+    {
+      "folder": "V2.6.1",
+      "label": "V2.6.1",
+      "isCurrent": false,
+      "createdAt": "2026-06-21T19:19:07.602Z"
+    }
+  ]
+}
